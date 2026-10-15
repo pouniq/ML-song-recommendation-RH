@@ -70,10 +70,6 @@ df_total_rh = pd.read_csv('data/lyrics/processed/rh_df.csv')
 ##### delete punctuations
 ##### stem the lyrics
 
-
-df_total_rh['lyrics_clean'] = df_total_rh['lyrics'].str.replace('\n',' ')
-
-
 # python -m spacy download en_core_web_sm
 nlp = spacy.load('en_core_web_sm')
 
@@ -81,31 +77,28 @@ nlp = spacy.load('en_core_web_sm')
 df_total_rh[df_total_rh['lyrics_clean'].isnull()]
 # we have 3 instrumental songs in our dataset 
 # 1. Hunting Bears, 2. Treefingers, 3.Untitled (from Kid A)
-df_total_rh = df_total_rh.dropna().reset_index(drop=True)
+df_total_rh = df_total_rh.dropna(subset=['lyrics']).reset_index(drop=True)
 
+def clean_lyrics(text):
+    doc = nlp(text.replace('\n', ' '))
+    tokens = [t.lemma_.lower() for t in doc if t.is_alpha and not t.is_stop]
+    return ' '.join(tokens)
 
-def nlp_child_pipe(text):
-    
-    phrase_child = nlp(text)
-    output = [token.text for token in phrase_child]
-    output = [token.lemma_ for token in phrase_child]
-    output = [token.lemma_ for token in phrase_child if not token.is_stop] 
-    output = ' '.join(output)
-    return output
-    
-df_total_rh['lyrics_clean'] = df_total_rh.lyrics_clean.apply(nlp_child_pipe) 
+df_total_rh['lyrics_clean'] = df_total_rh['lyrics'].apply(clean_lyrics)
 
 
 df_child_desc = {}
 for i, sentence in enumerate(df_total_rh['lyrics_clean']):
     sent =  nlp_child_pipe(sentence)
     df_child_desc[i] = sent
-
-
-
-
+    
 df_total_rh.to_csv('clean_rh.csv', index=False)
+
+
 ### The Smile
 
 df_total_ts = pd.read_csv('data/lyrics/processed/ts_df.csv')
 
+
+df_total_ts['lyrics_clean'] = df_total_ts['lyrics'].apply(clean_lyrics) 
+df_total_ts.to_csv('clean_ts.csv', index=False)
