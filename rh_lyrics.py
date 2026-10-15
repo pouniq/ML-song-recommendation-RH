@@ -14,6 +14,5 @@ genius = lyricsgenius.Genius(
 )
 
 
-artist = genius.search_artist("Radiohead", max_songs=5, sort="title")
-artist.save_lyrics(filename="radiohead_lyrics", extension="json", overwrite=True)
-
+album = genius.search_album("Cutouts", "the smile")
+album.save_lyrics()
