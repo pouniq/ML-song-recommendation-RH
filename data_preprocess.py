@@ -85,13 +85,6 @@ def clean_lyrics(text):
     return ' '.join(tokens)
 
 df_total_rh['lyrics_clean'] = df_total_rh['lyrics'].apply(clean_lyrics)
-
-
-df_child_desc = {}
-for i, sentence in enumerate(df_total_rh['lyrics_clean']):
-    sent =  nlp_child_pipe(sentence)
-    df_child_desc[i] = sent
-    
 df_total_rh.to_csv('clean_rh.csv', index=False)
 
 
