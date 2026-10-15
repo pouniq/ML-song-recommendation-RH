@@ -1,6 +1,9 @@
+import os
 import lyricsgenius
+import dotenv
 
-token = 'f3jFiQg1hEOdqx4nbJ7qBwW8mzHJf8RJ9NdQYNvQXPgTEs0SR57_ibvtCxxQxmVj'
+dotenv.load_dotenv()
+token = os.getenv('token')
 genius = lyricsgenius.Genius(token)
 
 genius = lyricsgenius.Genius(

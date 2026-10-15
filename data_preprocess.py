@@ -102,3 +102,5 @@ df_total_ts = pd.read_csv('data/lyrics/processed/ts_df.csv')
 
 df_total_ts['lyrics_clean'] = df_total_ts['lyrics'].apply(clean_lyrics) 
 df_total_ts.to_csv('clean_ts.csv', index=False)
+
+
