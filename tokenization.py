@@ -27,3 +27,16 @@ tfv = TfidfVectorizer(stop_words='english',min_df = 0.1, max_df=0.8)
 tfidf = tfv.fit_transform(df_rh.clean_lyrics)
 
 tfidf_df = pd.DataFrame(tfidf.toarray(), columns = tfv.get_feature_names_out())
+
+from sklearn.metrics.pairwise import cosine_similarity
+
+def top_k_similar(idx, X, titles, k=5):
+    sims = cosine_similarity(X.iloc[[idx]], X).ravel()
+    sims[idx] = -1                      # exclude the song itself
+    top = sims.argsort()[::-1][:k]
+    return [(titles[i], round(sims[i], 3)) for i in top]
+
+# call it with the DataFrame as X
+
+top_k_similar(74, tfidf_df, df_rh.title.tolist(), k=5)
+
