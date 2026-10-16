@@ -62,7 +62,7 @@ df_total_ts.to_csv('ts_df.csv')
 
 ### Radiohead
 
-df_total_rh = pd.read_csv('data/lyrics/processed/rh_df.csv')
+df_total_rh = pd.read_csv('data/lyrics/processed/raw/rh_df.csv')
 
 ##### delete spaces represnted as \n
 ##### lowercase the lyrics
@@ -71,21 +71,21 @@ df_total_rh = pd.read_csv('data/lyrics/processed/rh_df.csv')
 ##### stem the lyrics
 
 # python -m spacy download en_core_web_sm
-nlp = spacy.load('en_core_web_sm')
 
 
-df_total_rh[df_total_rh['lyrics_clean'].isnull()]
+
+df_total_rh[df_total_rh['lyrics'].isnull()]
 # we have 3 instrumental songs in our dataset 
 # 1. Hunting Bears, 2. Treefingers, 3.Untitled (from Kid A)
 df_total_rh = df_total_rh.dropna(subset=['lyrics']).reset_index(drop=True)
 
-def clean_lyrics(text):
-    doc = nlp(text.replace('\n', ' '))
-    tokens = [t.lemma_.lower() for t in doc if t.is_alpha and not t.is_stop]
-    return ' '.join(tokens)
 
-df_total_rh['lyrics_clean'] = df_total_rh['lyrics'].apply(clean_lyrics)
+df_total_rh['clean_lyrics'] = df_total_rh.lyrics.str.lower()
+df_total_rh['clean_lyrics'] = df_total_rh.clean_lyrics.str.replace('\n',' ')
+
 df_total_rh.to_csv('clean_rh.csv', index=False)
+
+
 
 
 ### The Smile
