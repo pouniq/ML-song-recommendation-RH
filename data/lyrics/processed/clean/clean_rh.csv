@@ -1,5 +1,5 @@
-Unnamed: 0,album,date_year,title,lyrics,lyrics_clean
-0,A Moon Shaped Pool,2016,Burn the Witch,"Stay in the shadows
+index,Unnamed: 0,album,date_year,title,lyrics,clean_lyrics
+0,0,A Moon Shaped Pool,2016,Burn the Witch,"Stay in the shadows
 Cheer at the gallows
 This is a round-up
 
@@ -25,8 +25,8 @@ Sing the song of sixpence that goes
 Burn the witch
 Burn the witch
 We know where you live
-We know where you live",stay shadow cheer gallow round low fly panic attack sing song jukebox go burn witch burn witch know live red cross wooden door float burn loose talk table abandon reason avoid eye contact react shoot messenger low fly panic attack sing song sixpence go burn witch burn witch know live know live
-1,A Moon Shaped Pool,2016,Daydreaming,"Dreamers
+We know where you live","stay in the shadows cheer at the gallows this is a round-up  this is a low-flying panic attack sing the song on the jukebox that goes  burn the witch burn the witch we know where you live  red crosses on wooden doors and if you float, you burn loose talk around tables abandon all reason  avoid all eye contact do not react shoot the messengers  this is a low-flying panic attack sing the song of sixpence that goes  burn the witch burn the witch we know where you live we know where you live"
+1,1,A Moon Shaped Pool,2016,Daydreaming,"Dreamers
 They never learn
 They never learn
 Beyond the point
@@ -63,8 +63,8 @@ You
 ​efil ym fo flaH
 ​efil ym fo flaH
 ​efil ym fo flaH
-​efil ym fo flaH​​",dreamer learn learn point return return late damage damage go white room window sun come happy serve happy serve ym fo flah ym fo flah ym fo flah ym fo flah ym fo flah ym fo flah ym fo flah ym fo flah ym fo flah ym fo flah ym fo flah ym fo flah ym fo flah ym fo flah ym fo flah ym fo
-2,A Moon Shaped Pool,2016,Decks Dark,"Then into your life, there comes a darkness
+​efil ym fo flaH​​",dreamers they never learn they never learn beyond the point of no return of no return then it's too late the damage is done the damage is done  this goes beyond me beyond you a white room by a window where the sun comes through we are just happy to serve just happy to serve you  ​efil ym fo flah ​efil ym fo flah ​efil ym fo flah ​efil ym fo flah ​efil ym fo flah ​efil ym fo flah ​efil ym fo flah ​efil ym fo flah ​efil ym fo flah ​efil ym fo flah ​efil ym fo flah ​efil ym fo flah ​efil ym fo flah ​efil ym fo flah ​efil ym fo flah ​efil ym fo flah​​
+2,2,A Moon Shaped Pool,2016,Decks Dark,"Then into your life, there comes a darkness
 There's a spacecraft blocking out the sky
 And there's nowhere to hide
 You run to the back, and you cover your ears
@@ -95,8 +95,8 @@ When you've had enough of me
 Sweet darling
 Sweet times
 Sweet darling
-Sweet times",life come darkness spacecraft block sky hide run cover ear loud sound hear trap ragdoll cloth people helpless resist dark hour laugh laugh laugh laugh angle crumble ton head wet sand oh dread circumference get to kid grass grow face glass glass laugh laugh split infinity life come darkness spacecraft block sky hide run cover ear loud sound hear dark hour sweet darling sweet darling sweet time sweet darling sweet time
-3,A Moon Shaped Pool,2016,Desert Island Disk,"Now as I go upon my way
+Sweet times","then into your life, there comes a darkness there's a spacecraft blocking out the sky and there's nowhere to hide you run to the back, and you cover your ears but it's the loudest sound, you've ever heard and all we trapped, ragdoll cloth people we are helpless to resist into our darkest hour  but it was just a laugh, just a laugh, just a laugh, just a laugh even at this angle, and so we crumble a ten ton head made of wet sand, oh, this dread circumference you've gotta be kidding me, the grass grows over me your face in the glass, in the glass, it was just a laugh, just a laugh it's whatever you say it is, in split infinities  then into your life, there comes a darkness and a spacecraft blocking out the sky and there's nowhere to hide you run to the back and you cover your ears but it's the loudest sound you've ever heard into your darkest hour  when you've had enough of me when you've had enough of me sweet darling when you've had enough of me when you've had enough of me sweet darling sweet times sweet darling sweet times"
+3,3,A Moon Shaped Pool,2016,Desert Island Disk,"Now as I go upon my way
 So let me go upon my way
 Born of a light, born of a light
 The wind rushing 'round my open heart
@@ -124,8 +124,8 @@ Different types of love
 Are possible
 Are possible
 Are possible
-Are possible",way let way bear light bear light wind rush round open heart open ravine spirit wide totally alive spirit light open doorway street life catch reflection window switch light know totally alive totally release waking wake shutdown thousand year sleep yeah know mean know mean know mean stand edge know mean know mean know mean different type love different type love different type love possible possible possible possible
-4,A Moon Shaped Pool,2016,Ful Stop,"You really messed up everything
+Are possible","now as i go upon my way so let me go upon my way born of a light, born of a light the wind rushing 'round my open heart an open ravine with my spirit wide totally alive and my spirit light through an open doorway across a street to another life and catching my reflection in a window, switching on a light one i didn't know, totally alive, totally released  waking, waking up from shutdown from a thousand years of sleep yeah, you, you know what i mean you know what i mean you know what i mean standing on the edge of you, you know what i mean you know what i mean you know what i mean  different types of love different types of love different types of love are possible are possible are possible are possible"
+4,4,A Moon Shaped Pool,2016,Ful Stop,"You really messed up everything
 You really messed up everything
 If you could take it all back again
 Strike up the tinderbox
@@ -170,8 +170,8 @@ You really messed up this time
 You really messed up
 You really messed up
 You really messed up
-You really messed up this time",mess mess strike tinderbox good foul taste medicine foul taste medicine trap stop truth mess truth mess truth mess truth mess truth mess truth mess truth mess truth mess truth mess good time truth mess truth mess good time truth mess truth mess good time truth mess truth mess good time truth mess truth mess good time truth mess truth mess good time truth mess truth mess good time truth mess truth mess good time mess mess mess mess time mess mess mess mess time mess mess mess mess time
-5,A Moon Shaped Pool,2016,Glass Eyes,"Hey, it's me, I just got off the train
+You really messed up this time","you really messed up everything you really messed up everything if you could take it all back again strike up the tinderbox why should i be good if you're not? this is a foul tasting medicine a foul tasting medicine to be trapped in your full stop  truth will mess you up, truth will mess you up truth will mess you up, truth will mess you up truth will mess you up, truth will mess you up truth will mess you up, truth will mess you up truth will mess you up (all the good times) truth will mess you up truth will mess you up (all the good times) truth will mess you up truth will mess you up (all the good times) truth will mess you up truth will mess you up (all the good times) truth will mess you up truth will mess you up (all the good times) truth will mess you up truth will mess you up (all the good times) truth will mess you up truth will mess you up (all the good times) truth will mess you up truth will mess you up (all the good times)  when you take me back take me back again will you take me back take me back again  you really messed up you really messed up you really messed up you really messed up this time you really messed up you really messed up you really messed up you really messed up this time you really messed up you really messed up you really messed up you really messed up this time"
+5,5,A Moon Shaped Pool,2016,Glass Eyes,"Hey, it's me, I just got off the train
 A frightening place, the faces are concrete grey
 And I'm wondering, should I turn around?
 Buy another ticket? The panic is coming on strong
@@ -188,8 +188,8 @@ Through the dry bush, I don't know where it leads
 And I don't really care
 
 I feel this love to the core
-I feel this love turn cold",hey get train frightening place face concrete grey wonder turn buy ticket panic come strong cold inside great drama message come oh smug glassy eyed light day glassy eyed light day path trail head mountain dry bush know lead care path trail head mountain dry bush know lead care feel love core feel love turn cold
-6,A Moon Shaped Pool,2016,Identikit,"A moon shaped pool
+I feel this love turn cold","hey, it's me, i just got off the train a frightening place, the faces are concrete grey and i'm wondering, should i turn around? buy another ticket? the panic is coming on strong so cold, from the inside out no great drama, message coming in in the oh-so-smug glassy eyed light of day glassy eyed light of day  where the path trails off and heads down the mountain through the dry bush, i don't know where it leads and i don't really care where the path trails off and heads down the mountain through the dry bush, i don't know where it leads and i don't really care  i feel this love to the core i feel this love turn cold"
+6,6,A Moon Shaped Pool,2016,Identikit,"A moon shaped pool
 Dancing clothes won't let me in
 And now I know it's never gonna be
 Oh, me
@@ -230,8 +230,8 @@ That we can create, that we can create
 But when I see you messing me around
 I don't want to know, I don't want to know, I don't want
 When I see you messing me around
-I don't want to know, I don't want to know, I don't want to know",moon shape pool dancing clothe will let know go to oh moon shape pool dancing clothe will let know go to oh moon shape pool dancing clothe will let know go to oh sweet faced one leave inside love love sweet faced one leave inside love love mess want know want know want mess want know want know want know break heart rain broken heart rain break heart rain broken heart rain break heart rain broken heart rain break heart rain broken heart rain break heart rain break heart broken heart rain broken heart rain break heart rain broken heart rain break heart rain broken heart rain break heart rain broken heart rain piece ragdoll mankind create create piece ragdoll mankind create create mess want know want know want mess want know want know want know
-7,A Moon Shaped Pool,2016,The Numbers,"It holds us like a phantom
+I don't want to know, I don't want to know, I don't want to know","a moon shaped pool dancing clothes won't let me in and now i know it's never gonna be oh, me a moon shaped pool dancing clothes won't let me in and now i know it's never gonna be oh, me a moon shaped pool dancing clothes won't let me in and now i know it's never gonna be oh, me  the sweet-faced ones with nothing left inside that we all can love, that we all can love, that we all the sweet-faced ones with nothing left inside that we all can love, that we all can love, that we all  but now i see you messing me around i don't want to know, i don't want to know, i don't want when i see you messing me around i don't want to know, i don't want to know, i don't want to know  broken hearts make it rain, broken hearts make it rain broken hearts make it rain, broken hearts make it rain broken hearts make it rain, broken hearts make it rain broken hearts make it rain, broken hearts make it rain broken hearts make it rain, broken hearts broken hearts make it rain, broken hearts make it rain broken hearts make it rain, broken hearts make it rain broken hearts make it rain, broken hearts make it rain broken hearts make it rain, broken hearts make it rain  the pieces of a ragdoll mankind that we can create, that we can create, that we can the pieces of a ragdoll mankind that we can create, that we can create  but when i see you messing me around i don't want to know, i don't want to know, i don't want when i see you messing me around i don't want to know, i don't want to know, i don't want to know"
+7,7,A Moon Shaped Pool,2016,The Numbers,"It holds us like a phantom
 It touches  like a breeze
 It shines its understanding
 See, the moon is smiling
@@ -262,8 +262,8 @@ Like we're pretty broken flowers
 We'll take back what is ours
 Take back what is ours
 
-One day at a time",hold like phantom touch like breeze shin understanding moon smile open channel ready receive mercy shimmerer spell shimmerer spell mm hmm earth return future inside day time day time people people power number decide system lie river run dry wing butterfly pour away like soup like pretty broken flower day time
-8,A Moon Shaped Pool,2016,Present Tense,"This dance, this dance
+One day at a time","it holds us like a phantom it touches  like a breeze it shines its understanding see, the moon is smiling open on all channels ready to receive 'cause we're not at the mercy of your shimmerers and spells your shimmerers and spells mm-hmm we are of the earth to her we do return the future is inside us it's not somewhere else it's not somewhere else it's not somewhere else  (one day at a time) one day at a time  we call upon the people the people have this power the numbers don't decide the system is a lie the river running dry the wings of butterflies and you may pour us away like soup like we're pretty broken flowers we'll take back what is ours take back what is ours  one day at a time"
+8,8,A Moon Shaped Pool,2016,Present Tense,"This dance, this dance
 Is like a weapon, is like a weapon
 Of self-defence, of self-defence
 Against the present, against the present
@@ -289,8 +289,8 @@ Where all this love has been in vain
 In you, I'm lost
 In you, I'm lost
 In you, I'm lost
-In you, I'm lost",dance dance like weapon like weapon self defence self defence present present present tense will heavy heavy light move harm world comes crash dance freak deaf dumb blind lose lose will turn penny drop will stop will slack love vain stop fall business love vain lose lose lose lose
-9,A Moon Shaped Pool,2016,Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief,"All the holes at once
+In you, I'm lost","this dance, this dance is like a weapon, is like a weapon of self-defence, of self-defence against the present, against the present the present tense  no, i won't get heavy, don't get heavy keep it light and keep it moving i am doing no harm as my world comes crashing down i'll be dancing, freaking out deaf, dumb, and blind  in you, i'm lost in you, i'm lost  i won't turn around or the penny drops won't stop now, won't slack off or all this love will be in vain to stop from falling down a mine it's no one's business but mine where all this love has been in vain  in you, i'm lost in you, i'm lost in you, i'm lost in you, i'm lost"
+9,9,A Moon Shaped Pool,2016,Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief,"All the holes at once
 Are comin' alive, set free
 Out of sight and out of mind
 The lonely and their prey
@@ -306,8 +306,8 @@ I am here, come to me before it's too late
 
 The one you light your fires to keep away
 Is crawling out upon its belly
-All you have to do is say ""Yes""",hole comin alive set free sight mind lonely prey light fire away crawl belly yes bird stay tree fish swim deep lonely prey come late light fire away crawl belly yes
-10,A Moon Shaped Pool,2016,True Love Waits,"I'll drown my beliefs
+All you have to do is say ""Yes""","all the holes at once are comin' alive, set free out of sight and out of mind the lonely and their prey  the one you light your fires to keep away is crawling out upon its belly and all you have to do is say ""yes""  all the birds stay up in the trees all the fish swim down to the deep the lonely and their prey i am here, come to me before it's too late  the one you light your fires to keep away is crawling out upon its belly all you have to do is say ""yes"""
+10,10,A Moon Shaped Pool,2016,True Love Waits,"I'll drown my beliefs
 To have your babies
 I'll dress like your niece
 And wash your swollen feet
@@ -329,8 +329,8 @@ And true love lives
 On lollipops and crisps
 
 Just don't leave
-Don't leave",drown belief baby dress like niece wash swollen foot leave leave live kill time tiny hand crazy kitten smile leave leave true love wait haunted attic true love live lollipop crisp leave leave
-0,Amnesiac,2001,Packt Like Sardines in a Crushd Tin Box,"After years of waiting
+Don't leave",i'll drown my beliefs to have your babies i'll dress like your niece and wash your swollen feet  just don't leave don't leave  i'm not living i'm just killing time your tiny hands your crazy kitten smile  just don't leave don't leave  and true love waits in haunted attics and true love lives on lollipops and crisps  just don't leave don't leave
+11,0,Amnesiac,2001,Packt Like Sardines in a Crushd Tin Box,"After years of waiting
 Nothing came
 As your life flashed before your eyes
 You realize
@@ -364,8 +364,8 @@ Get off my case, get off my case, get off my case
 I'm a reasonable man
 Get off my case, get off my case, get off my case
 I'm a reasonable man
-Get off my case, get off my case, get off my case",year wait come life flash eye realize reasonable man case reasonable man case case year wait year wait come realize look look wrong place reasonable man case case reasonable man case case case reasonable man case case case try year wait reasonable man case case case reasonable man case case case reasonable man case case case reasonable man case case case
-1,Amnesiac,2001,Pyramid Song,"I jumped in the river and what did I see?
+Get off my case, get off my case, get off my case","after years of waiting nothing came as your life flashed before your eyes you realize  i'm a reasonable man get off, get off, get off my case i'm a reasonable man get off my case, get off my case  after years of waiting  after years of waiting nothing came and you realize you're looking in looking in the wrong place  i'm a reasonable man get off my case, get off my case i'm a reasonable man get off my case, get off my case, get off my case i'm a reasonable man get off my case, get off my case, get off my case  (i'ma try for...) after years of waiting  i'm a reasonable man get off my case, get off my case, get off my case i'm a reasonable man get off my case, get off my case, get off my case i'm a reasonable man get off my case, get off my case, get off my case i'm a reasonable man get off my case, get off my case, get off my case"
+12,1,Amnesiac,2001,Pyramid Song,"I jumped in the river and what did I see?
 Black-eyed angels swam with me
 A moon full of stars and astral cars
 And all the figures I used to see
@@ -385,8 +385,8 @@ And we all went to heaven in a little row boat
 
 There was nothing to fear and nothing to doubt
 There was nothing to fear and nothing to doubt
-There was nothing to fear and nothing to doubt",jump river black eyed angel swam moon star astral car figure lover past future go heaven little row boat fear doubt jump river black eyed angel swam moon star astral car figure lover past future go heaven little row boat fear doubt fear doubt fear doubt
-2,Amnesiac,2001,Pulk/Pull Revolving Doors,"There are barn doors
+There was nothing to fear and nothing to doubt",i jumped in the river and what did i see? black-eyed angels swam with me a moon full of stars and astral cars and all the figures i used to see all my lovers were there with me all my past and futures and we all went to heaven in a little row boat  there was nothing to fear and nothing to doubt  i jumped into the river black-eyed angels swam with me a moon full of stars and astral cars and all the figures i used to see all my lovers were there with me all my past and futures and we all went to heaven in a little row boat  there was nothing to fear and nothing to doubt there was nothing to fear and nothing to doubt there was nothing to fear and nothing to doubt
+13,2,Amnesiac,2001,Pulk/Pull Revolving Doors,"There are barn doors
 And there are revolving doors
 Doors in the rudders of big ships
 And there are revolving doors
@@ -398,8 +398,8 @@ And there are secret doors
 There are doors that lock and doors that don't
 There are doors that let you in and out but never open
 And there are trapdoors
-That you can't come back from",barn door revolve door door rudder big ship revolve door door open slide door secret door door lock door door let open trapdoor come
-3,Amnesiac,2001,You and Whose Army?,"Come on, come on
+That you can't come back from",there are barn doors and there are revolving doors doors in the rudders of big ships and there are revolving doors  there are doors that open by themselves there are sliding doors and and there are secret doors  there are doors that lock and doors that don't there are doors that let you in and out but never open and there are trapdoors that you can't come back from
+14,3,Amnesiac,2001,You and Whose Army?,"Come on, come on
 You think you drive me crazy?
 Well, come on, come on
 
@@ -425,8 +425,8 @@ We ride tonight
 We ride tonight
 Ghost horses
 Ghost horses
-Ghost horses",come come think drive crazy come come army crony come come holy roman empire come think come think army crony forget easy ride tonight ride tonight ghost horse ghost horse ride tonight ride tonight ghost horse ghost horse ghost horse
-4,Amnesiac,2001,I Might Be Wrong,"I might be wrong
+Ghost horses","come on, come on you think you drive me crazy? well, come on, come on  you and whose army? you and your cronies  come on, come on holy roman empire come on if you think come on if you think you can take us on you can take us on  you and whose army? you and your cronies you forget so easy  we ride tonight we ride tonight ghost horses ghost horses we ride tonight we ride tonight ghost horses ghost horses ghost horses"
+15,4,Amnesiac,2001,I Might Be Wrong,"I might be wrong
 I might be wrong
 I could have sworn I saw a light
 Coming on
@@ -458,8 +458,8 @@ It's nothing at all
 Nothing at all
 
 Come on and let me in
-Come on and let me in",wrong wrong swear see light come think think future leave think open begin let waterfall think good time look look open let let waterfall good time come let come let
-5,Amnesiac,2001,Knives Out,"I want you to know
+Come on and let me in",i might be wrong i might be wrong i could have sworn i saw a light coming on  i used to think i used to think there was no future left at all i used to think  open up begin again  let's go down the waterfall think about the good times and never look back never look back  what would i do? what would i do? if i did not have you?  open up and let me in  let's go down the waterfall have ourselves a good time it's nothing at all it's nothing at all nothing at all  come on and let me in come on and let me in
+16,5,Amnesiac,2001,Knives Out,"I want you to know
 He's not coming back
 Look into my eyes
 I'm not coming back
@@ -488,8 +488,8 @@ Still there's no point in letting it go to waste
 So knives out
 Catch the mouse
 Squash his head
-Put him in the pot",want know come look eye come knive catch mouse look shove mouth dog drown birth look eye way know tell truth knive cook squash head pot want know come bloated freeze point let waste knife catch mouse squash head pot
-6,Amnesiac,2001,Morning Bell/Amnesiac,"The morning bell
+Put him in the pot",i want you to know he's not coming back look into my eyes i'm not coming back  so knives out catch the mouse don't look down shove it in your mouth  if you'd been a dog they would have drowned you at birth look into my eyes it's the only way you'll know i'm telling the truth  so knives out cook him up squash his head put him in the pot   i want you to know he's not coming back he's bloated and frozen still there's no point in letting it go to waste  so knives out catch the mouse squash his head put him in the pot
+17,6,Amnesiac,2001,Morning Bell/Amnesiac,"The morning bell
 The morning bell
 Light another candle and
 Release me
@@ -522,8 +522,8 @@ Cut the kids in half
 Release me
 Release me
 Release me
-Release me",morning bell morning bell light candle release release furniture bump head howl chimney release release yeah release release park car park car clothe lawn furniture sleepy jack fire drill round round round round round round cut kid half cut kid half cut kid half release release release release
-7,Amnesiac,2001,Dollars and Cents,"There are better things to talk about
+Release me",the morning bell the morning bell light another candle and release me release me  you can keep the furniture a bump on the head howling down the chimney release me release me yeah  release me release me  where'd you park the car? where'd you park the car? your clothes are on the lawn with the furniture and i might as well i might as well sleepy jack the fire drill round and round and round and round and round and round  cut the kids in half cut the kids in half cut the kids in half  release me release me release me release me
+18,7,Amnesiac,2001,Dollars and Cents,"There are better things to talk about
 Be constructive
 There're weapons we can use
 Be constructive with your blues
@@ -568,8 +568,8 @@ And the pounds and pence, and yeah
 (Why don't you quiet down?)
 We're gonna crack your little souls
 Crack your little souls
-We are the dollars and cents",well thing talk constructive weapon use constructive blue turn water green turn water green oh quiet maybe want peace honesty quiet maybe want live child land know maybe maybe quiet maybe wander promise land want peace honesty quiet want live promise land maybe wander child land quiet yeah free live business world go stay goal liberal world live time stand babe baby cry baby clover dead clover let quiet dollar cent pound penny mark yen yeah quiet go to crack little soul go to crack little soul quiet dollar cent pound penny pound penny yeah quiet go to crack little soul crack little soul dollar cent
-9,Amnesiac,2001,Like Spinning Plates,"While you make pretty speeches
+We are the dollars and cents","there are better things to talk about be constructive there're weapons we can use be constructive with your blues even when you turn the water green even when you turn the water green  oh, why don't you quiet down? (maybe i want peace and honesty) why don't you quiet down? (maybe i want to live in the children's land and you know maybe, maybe i) why don't you quiet down? (maybe i'll wander the promised land i want peace and honesty) why don't you quiet down? (i want to live in the promised land and maybe wander the children's land) quiet down! (yeah, and there, there we can free)  you don't live in a business world and he never goes and you never stay we all have goals in a liberal world living in times when i could stand it, babe all over, baby's crying it'll all be, baby, i can see out of here all over the clovers dead all over the clovers, so let me out of here all over and over and over and over and over  (quiet down) we are the dollars and cents and the pounds and pence and the mark and the yen, and yeah (why don't you quiet down?) we're gonna crack your little souls we're gonna crack your little souls (why don't you quiet down?) we are the dollars and cents and the pounds and pence and the pounds and pence, and yeah (why don't you quiet down?) we're gonna crack your little souls crack your little souls we are the dollars and cents"
+20,9,Amnesiac,2001,Like Spinning Plates,"While you make pretty speeches
 I'm being cut to shreds
 You feed me to the lions
 A delicate balance
@@ -577,8 +577,8 @@ A delicate balance
 When this just feels like spinning plates
 I'm living in Cloud Cuckoo Land
 And this just feels like spinning plates
-My body's floating down the muddy river",pretty speech cut shred feed lion delicate balance feel like spin plate live cloud cuckoo land feel like spin plate body float muddy river
-10,Amnesiac,2001,Life in a Glasshouse,"Once again, I'm in trouble with my only friend
+My body's floating down the muddy river",while you make pretty speeches i'm being cut to shreds you feed me to the lions a delicate balance  when this just feels like spinning plates i'm living in cloud cuckoo land and this just feels like spinning plates my body's floating down the muddy river
+21,10,Amnesiac,2001,Life in a Glasshouse,"Once again, I'm in trouble with my only friend
 She is papering the windowpanes
 She is putting on a smile
 Living in a glasshouse
@@ -606,8 +606,8 @@ Only, only, only, only
 Only, only, only, only
 Only, only, only, only
 Only, only, only, only
-There's someone listening in",trouble friend paper windowpane put smile live glasshouse pack like frozen food battery hen think starve million talk politic throw stone royal highness say course like sit chat course like stay chew fat course like sit chat listen hungry lynching strange mistake turn cheek live glasshouse course like sit chat course like stay chew fat course like sit chat listen
-0,Hail to the Thief,2003,2 + 2 = 5,"We're on
+There's someone listening in","once again, i'm in trouble with my only friend she is papering the windowpanes she is putting on a smile living in a glasshouse  and once again, packed like frozen food and battery hens think of all the starving millions don't talk politics and don't throw stones your royal highnesses says;  well, of course i'd like to sit around and chat well, of course i'd like to stay and chew the fat well, of course i'd like to sit around and chat but someone's listening in  once again, we are hungry for a lynching that's a strange mistake to make you should turn the other cheek living in a glasshouse  well, of course i'd like to sit around and chat well, of course i'd like to stay and chew the fat well, of course i'd like to sit around and chat  only, only, only, only only, only, only, only only, only, only, only only, only, only, only there's someone listening in"
+22,0,Hail to the Thief,2003,2 + 2 = 5,"We're on
 That's a nice way to start, Jonny
 
 Are you such a dreamer
@@ -663,8 +663,8 @@ Oh, go and tell the king
 That the sky is falling in
 But it's not, but it's not
 But it's not, maybe not
-Maybe not",nice way start jonny dreamer world right stay home forever make lay track sandbag hide january april shower make devil way way scream shout late pay attention pay attention pay attention pay attention pay attention pay attention pay attention pay attention pay attention pay attention pay attention pay attention pay attention pay attention pay attention pay attention try sing wrong swat like fly like fly bug come hail thief hail thief question authority box oh tell king sky fall maybe maybe
-1,Hail to the Thief,2003,Sit down. Stand up.,"Sit down
+Maybe not","we're on that's a nice way to start, jonny  are you such a dreamer to put the world to rights? i'll stay home forever where two and two always makes a five  i'll lay down the tracks sandbag and hide january has april showers and two and two always makes a five  it's the devil's way now there is no way out you can scream and you can shout it is too late now because  you have not been paying attention paying attention paying attention paying attention you have not been paying attention paying attention paying attention paying attention you have not been paying attention paying attention paying attention paying attention you have not been paying attention paying attention paying attention paying attention  i try to sing along but i get it all wrong 'cause i'm not, 'cause i'm not i swat 'em like flies but like flies, the bugs keep coming back not, but i'm not all hail to the thief all hail to the thief but i'm not, but i'm not but i'm not, but i'm not don't question my authority or put me in a box 'cause i'm not, 'cause i'm not oh, go and tell the king that the sky is falling in but it's not, but it's not but it's not, maybe not maybe not"
+23,1,Hail to the Thief,2003,Sit down. Stand up.,"Sit down
 Stand up
 Sit down
 Stand up
@@ -709,8 +709,8 @@ The raindrops, the raindrops
 The raindrops, the raindrops
 The raindrops, the raindrops
 The raindrops, the raindrops
-The raindrops, the raindrops",sit stand sit stand walk jaw hell sit walk jaw hell stand anytime sit anytime stand sit stand sit hey wipe anytime stand wipe sit anytime anytime stand sit raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop raindrop
-2,Hail to the Thief,2003,Sail to the Moon.,"I sucked the moon
+The raindrops, the raindrops","sit down stand up sit down stand up  walk into the jaws of hell (sit down) walk into the jaws of hell (stand up) anytime (sit down) anytime (stand up)  sit down stand up sit down  hey, we can wipe you out anytime (stand up) we can wipe you out (sit down) anytime anytime  stand up sit down  the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops the raindrops, the raindrops"
+24,2,Hail to the Thief,2003,Sail to the Moon.,"I sucked the moon
 I spoke too soon
 And how much did it cost?
 I was dropped from moonbeams
@@ -722,8 +722,8 @@ Or in the flood you'll build an ark
 And sail us to the moon
 
 Sail us to (To) the moon
-Sail to the moon",suck moon speak soon cost drop moonbeam sail shootin star maybe president know right wrong flood build ark sail moon sail moon sail moon
-3,Hail to the Thief,2003,Backdrifts.,"We're rotten fruit, we're damaged goods
+Sail to the moon",i sucked the moon i spoke too soon and how much did it cost? i was dropped from moonbeams and sailed on shootin' stars  maybe you'll be president but know right from wrong or in the flood you'll build an ark and sail us to the moon  sail us to (to) the moon sail to the moon
+25,3,Hail to the Thief,2003,Backdrifts.,"We're rotten fruit, we're damaged goods
 What the hell, we've got nothing more to lose
 One gust and we will probably crumble
 We're backdrifting
@@ -756,8 +756,8 @@ You fell into our, you fell into our...
 We're rotten fruit, we're damaged goods
 What the hell, we've got nothing more to lose
 One gust and we will probably crumble
-We're backdrifters",rotten fruit damage good hell get lose gust probably crumble backdrifte far hang branch teeter brink honey sweet sleep backslide fall arm fall arm try evidence bury tape erase footstep away backtrack ah ah ah fall arm fall arm try fall fall rotten fruit damage good hell get lose gust probably crumble backdrifter
-4,Hail to the Thief,2003,Go to Sleep.,"Something for the rag and bone man
+We're backdrifters","we're rotten fruit, we're damaged goods what the hell, we've got nothing more to lose one gust and we will probably crumble we're backdrifting  this far, but no further i'm hanging off a branch i'm teetering on the brink of honey sweets, so full of sleep i'm backsliding  you fell into our arms you fell into our arms we tried but there was nothing we could do nothing we could do  all evidence has been buried all tapes have been erased but your footsteps give you away so you're backtracking  ah-ah-ah you fell into our arms you fell into our arms we tried but there was nothing we could do nothing we could do  you fell into our, you fell into our...   we're rotten fruit, we're damaged goods what the hell, we've got nothing more to lose one gust and we will probably crumble we're backdrifters"
+26,4,Hail to the Thief,2003,Go to Sleep.,"Something for the rag and bone man
 Over my dead body
 Something big is gonna happen
 Over my dead body
@@ -778,8 +778,8 @@ Tiptoe 'round, tie him down
 May pretty horses
 Come to you as you sleep
 I'm gonna go to sleep
-And let this wash all over me",rag bone man dead body big go to happen dead body son daughter dead body end suck dead body go to sleep let wash want monster take tiptoe round tie want loony take tiptoe round tie pretty horse come sleep go to sleep let wash
-5,Hail to the Thief,2003,Where I End and You Begin.,"There's a gap in between
+And let this wash all over me","something for the rag and bone man over my dead body something big is gonna happen over my dead body  someone's son or someone's daughter over my dead body this is how i end up sucked in over my dead body  i'm gonna go to sleep and let this wash all over me  we don't really want a monster taking over tiptoe 'round, tie him down we don't want the loonies taking over tiptoe 'round, tie him down  may pretty horses come to you as you sleep i'm gonna go to sleep and let this wash all over me"
+27,5,Hail to the Thief,2003,Where I End and You Begin.,"There's a gap in between
 There's a gap where we meet
 Where I end and you begin
 And I'm sorry for us
@@ -829,8 +829,8 @@ There'll be no more lies
 There'll be no more lies
 I will eat you alive
 I will eat you alive
-I will eat you alive",gap gap meet end begin sorry dinosaur roam earth sky turn green end begin seven cloud cloud come watch end start leave leave x mark place like parting wave like house fall sea sea eat alive eat alive eat alive eat alive lie lie lie lie eat alive eat alive eat alive eat alive lie lie lie lie eat alive eat alive eat alive eat alive lie lie lie lie eat alive eat alive eat alive
-6,Hail to the Thief,2003,We suck Young Blood.,"Are you hungry?
+I will eat you alive","there's a gap in between there's a gap where we meet where i end and you begin and i'm sorry for us the dinosaurs roam the earth the sky turns green where i end and you begin  four, five, six, seven  i am up in the clouds i am up in the clouds and i can't, and i can't come down i can watch but not take part where i end and where you start where you, you left me alone you left me alone  x will mark the place like the parting of the waves like a house falling in the sea in the sea   i will eat you alive i will eat you alive i will eat you alive i will eat you alive there'll be no more lies there'll be no more lies there'll be no more lies there'll be no more lies i will eat you alive i will eat you alive i will eat you alive i will eat you alive there'll be no more lies there'll be no more lies there'll be no more lies there'll be no more lies i will eat you alive i will eat you alive i will eat you alive i will eat you alive there'll be no more lies there'll be no more lies there'll be no more lies there'll be no more lies i will eat you alive i will eat you alive i will eat you alive"
+28,6,Hail to the Thief,2003,We suck Young Blood.,"Are you hungry?
 Are you sick?
 Are you begging for a break?
 Are you sweet?
@@ -853,8 +853,8 @@ Our veins are thin
 Our rivers poisoned
 
 We want the sweet meats
-We want young blood",hungry sick beg break sweet fresh string wrist want young blood fracture tear seam flea bite moth eat suck young blood suck young blood will let creep ivy will let nervous bury vein thin river poison want sweet meat want young blood
-7,Hail to the Thief,2003,The Gloaming.,"Genie let out of the bottle
+We want young blood","are you hungry? are you sick? are you begging for a break? are you sweet? are you fresh? are you strung up by the wrists?  we want the young blood  are you fracturing? are you torn at the seams? would you do anything? flea-bitten, moth-eaten?  we suck young blood we suck young blood  won't let the creeping ivy won't let the nervous bury me our veins are thin our rivers poisoned  we want the sweet meats we want young blood"
+29,7,Hail to the Thief,2003,The Gloaming.,"Genie let out of the bottle
 It is now the witching hour
 Genie let out of the bottle
 It is now the witching hour
@@ -884,8 +884,8 @@ They should be ringing, they should be ringing
 They should be ringing, they should be ringing
 They should be ringing, they should be ringing
 They should be ringing, they should be ringing
-This is the gloaming",genie let bottle witching hour genie let bottle witching hour murderers murderer genie let bottle funny ha ha funny ha wall bend wall bend breathing breathing wall bend wall bend breathing breathe breathing suck suck suck suck shadow blue red shadow blue red alarm bell alarm bell shadows blue red shadow blue red alarm bell alarm ring ring ring ring ring ring ring ring ring ring ring ring gloaming
-8,Hail to the Thief,2003,There there.,"In pitch dark
+This is the gloaming","genie let out of the bottle it is now the witching hour genie let out of the bottle it is now the witching hour murderers, you're murderers we are not the same as you genie let out of the bottle funny, ha-ha, funny ha  when the walls bend, when the walls bend with your breathing, with your breathing when the walls bend, when the walls bend with your breathing, with your breathing with your breathing  they will suck you down to the other side they will suck you down to the other side they will suck you down to the other side they will suck you down to the other side to the shadows blue and red, shadows blue and red your alarm bells, your alarm bells shadows blue and red, shadows blue and red your alarm bells, your alarm  they should be ringing, they should be ringing they should be ringing, they should be ringing they should be ringing, they should be ringing they should be ringing, they should be ringing they should be ringing, they should be ringing they should be ringing, they should be ringing this is the gloaming"
+30,8,Hail to the Thief,2003,There there.,"In pitch dark
 I go walking in your landscape
 Broken branches
 Trip me as I speak
@@ -927,8 +927,8 @@ Waiting, waiting
 To happen
 We are accidents
 Waiting, waiting
-To happen",pitch dark walk landscape broken branch trip speak feel mean feel mean siren sing shipwreck ooh ah reach reach ooh ah reach reach steer away rock walk disaster ooh ah reach reach ooh ah reach reach feel mean shoulder shoulder feel mean shoulder shoulder green lonely lonely lonely heaven send accident wait wait happen accident wait wait happen
-9,Hail to the Thief,2003,I will.,"I will lay me down
+To happen","in pitch dark i go walking in your landscape broken branches trip me as i speak  just 'cause you feel it doesn't mean it's there just 'cause you feel it doesn't mean it's there  there's always a siren singing you to shipwreck (ooh-ah, don't reach out, don't reach out) (ooh-ah, don't reach out, don't reach out) steer away from these rocks we'd be a walking disaster (ooh-ah, don't reach out, don't reach out) (ooh-ah, don't reach out, don't reach out)  just 'cause you feel it doesn't mean it's there (someone on your shoulder) (someone on your shoulder) just 'cause you feel it doesn't mean it's there (someone on your shoulder) (someone on your shoulder)  there, there  why so green and lonely, and lonely and lonely? heaven sent you to me, to me to me  we are accidents waiting, waiting to happen we are accidents waiting, waiting to happen"
+31,9,Hail to the Thief,2003,I will.,"I will lay me down
 In a bunker underground
 I won't let this happen to my children
 Meet the real world coming out of your shell
@@ -937,8 +937,8 @@ I will rise up
 
 Little baby's eyes, eyes, eyes, eyes
 Little baby's eyes, eyes, eyes, eyes
-Little baby's eyes, eyes eyes",lay bunker underground will let happen child meet real world come shell white elephant sit duck rise little baby eye eye eye eye little baby eye eye eye eye little baby eye eye eye
-10,Hail to the Thief,2003,A Punchup at a Wedding.,"No, no, no, no, no, no
+Little baby's eyes, eyes eyes","i will lay me down in a bunker underground i won't let this happen to my children meet the real world coming out of your shell with white elephants, sitting ducks i will rise up  little baby's eyes, eyes, eyes, eyes little baby's eyes, eyes, eyes, eyes little baby's eyes, eyes eyes"
+32,10,Hail to the Thief,2003,A Punchup at a Wedding.,"No, no, no, no, no, no
 No, no, no, no, no, no
 No, no, no, no, no, no
 No, no, no, no, no, no
@@ -970,8 +970,8 @@ No, no, no, no, no, no, no, no, no
 No, no, no, no, no, no, no, no, no, no, no, no, no, no
 No, no, no, no, no, no, no, no, no, no, no, no, no, no
 No, no, no, no, no, no, no, no, no, no, no, no, no, no
-No, no, no, no, no, no, no, no, no, no, no, no, no, no",know bother good like come start fight piss parade shred big day ruin concerned drunken punch wedding yeah hypocrite opportunist infect poison bully china shop turn round stay frozen spot pointless snide remark hammerheade shark pot kettle black drunken punch wedding yeah
-11,Hail to the Thief,2003,Myxomatosis.,"The mongrel cat came home
+No, no, no, no, no, no, no, no, no, no, no, no, no, no","no, no, no, no, no, no no, no, no, no, no, no no, no, no, no, no, no no, no, no, no, no, no no, no, no, no, no, no no, no, no, no, no, no no, no, no, no, no, no  i don't know why you bother nothing's ever good enough for you i was there, it wasn't like that you've come here just to start a fight  you had to piss on our parade you had to shred our big day you had to ruin it for all concerned in a drunken punch-up at a wedding, yeah  hypocrite, opportunist don't infect me with your poison a bully in a china shop when i turn 'round, you stay frozen to the spot  the pointless snide remarks of hammerheaded sharks the pot will call the kettle black it's a drunken punch-up at a wedding, yeah  no, no, no, no, no, no, no, no, no no, no, no, no, no, no, no, no, no, no, no, no, no, no no, no, no, no, no, no, no, no, no, no, no, no, no, no no, no, no, no, no, no, no, no, no, no, no, no, no, no no, no, no, no, no, no, no, no, no, no, no, no, no, no"
+33,11,Hail to the Thief,2003,Myxomatosis.,"The mongrel cat came home
 Holding half a head
 Proceeded to show it off
 To all his newfound friends
@@ -1008,8 +1008,8 @@ It must have got mixed up, strangled, beaten up
 I got myxomatosis, I got myxomatosis
 
 I don't know why I
-Feel so tongue tied",mongrel cat come home hold half head proceed newfound friend say like sleep like eat breakfast screw vice know feel tongue tie sit cupboard write neat cheer wave cheer wave twitching salivate like myxomatosis get edit fuck strangled beat photo time magazine bury burn black hole devon know feel tongue tie know feel skinned alive thought misguided little naïve twitch salivate like myxomatosis home get myxomatosis get myxomatosis yeah like smartass like star wait intention reason get mix strangle beat get myxomatosis get myxomatosis know feel tongue tie
-12,Hail to the Thief,2003,Scatterbrain.,"I'm walking out
+Feel so tongue tied","the mongrel cat came home holding half a head proceeded to show it off to all his newfound friends he said, ""i been where i liked i slept with who i like she ate me up for breakfast she screwed me in a vice but now  i don't know why i feel so tongue tied""  i sat in the cupboard and wrote it down in neat they were cheering and waving, cheering and waving twitching and salivating like with myxomatosis but it got edited, fucked up strangled, beaten up used in a photo in time magazine buried in a burning black hole in devon  i don't know why i feel so tongue tied don't know why i feel so skinned alive  my thoughts are misguided and a little naïve i twitch and i salivate like with myxomatosis you should put me in a home or you should put me down i got myxomatosis, i got myxomatosis yeah, no one likes a smartass, but we all like stars wait, that wasn't my intention, i did it for a reason it must have got mixed up, strangled, beaten up i got myxomatosis, i got myxomatosis  i don't know why i feel so tongue tied"
+34,12,Hail to the Thief,2003,Scatterbrain.,"I'm walking out
 In a force ten gale
 Birds thrown around
 Bullets for hail
@@ -1031,8 +1031,8 @@ Scatterbrain
 Somewhere I'm not
 Scatterbrain
 Lightning fuse, powercut
-Scatterbrain",walk force gale birds throw bullet hail roof pull fingernail voice rap windowsill yesterday headline blow wind yesterday people end scatterbrain fool easy pick hole wish fall moving target firing range scatterbrain scatterbrain lightning fuse powercut scatterbrain
-13,Hail to the Thief,2003,A Wolf at the Door.,"Drag him out your window, dragging out the dead
+Scatterbrain","i'm walking out in a force ten gale birds thrown around bullets for hail the roof is pulling off by its fingernails your voice is rapping on my windowsill  yesterday's headlines blown by the wind yesterday's people end up scatterbrain there any fool can easy pick a hole i only wish i could fall in a moving target in a firing range  somewhere i'm not scatterbrain somewhere i'm not scatterbrain lightning fuse, powercut scatterbrain"
+35,13,Hail to the Thief,2003,A Wolf at the Door.,"Drag him out your window, dragging out the dead
 Singing ""I miss you""
 Snakes and ladders, flip the lid
 Out pops the cracker, smacks you in the head
@@ -1086,8 +1086,8 @@ Steal all my children if I don't pay the ransom
 And I'll never see them again if I squeal to the cops
 So I'm just gonna—
 
-Oooooh, ooooooooooh",drag window drag dead singing miss snake ladder flip lid pop cracker smack head knifes neck kick tooth steel toe cap take credit card gunge egg flan face flan face flan face dance fucker dance fucker dare dare flan face love give pinch salt taxman let let promise good look mirror face recognize help doctor inside inside inside inside inside wolf door call call phone tell way go to mess steal child pay ransom squeal cop walk like giant crane ah x ray eye strip naked tight little world list stepford wife complain investment deal investment dealer cold wife mistress cold wife sunday paper city boy class know bear go to come clean bear raise job oh wish turn tape wolf door call call phone tell way go to mess steal child pay ransom squeal cop go to oooooh ooooooooooh
-0,In Rainbows,2007,15 Step,"How come I end up where I started?
+Oooooh, ooooooooooh","drag him out your window, dragging out the dead singing ""i miss you"" snakes and ladders, flip the lid out pops the cracker, smacks you in the head knifes you in the neck, kicks you in the teeth, steel toe caps takes all your credit cards get up, get the gunge get the eggs, get the flan in the face the flan in the face, the flan in the face dance you fucker, dance you fucker don't you dare, don't you dare don't you, flan in the face take it with the love it's given, take it with a pinch of salt take it to the taxman let me back, let me back, i promise to be good don't look in the mirror at the face you don't recognize help me, call the doctor, put me inside put me inside, put me inside put me inside, put me inside  i keep the wolf from the door, but he calls me up calls me on the phone, tells me all the ways that he's gonna mess me up steal all my children if i don't pay the ransom and i'll never see them again if i squeal to the cops  no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no  walking like giant cranes ah, with my x-ray eyes, i strip you naked in a tight little world and are you on the list? stepford wives, who are we to complain? investments and deals, investments and dealers cold wives and mistresses, cold wives and sunday papers city boys in first class don't know we're born, they don't someone else is gonna come and clean it up born and raised for the job, someone always does oh, i wish you'd get up get over, get up, go over and turn your tape off  i keep the wolf from the door but he calls me up calls me on the phone, tells me all the ways that he's gonna mess me up steal all my children if i don't pay the ransom and i'll never see them again if i squeal to the cops so i'm just gonna—  oooooh, ooooooooooh"
+36,0,In Rainbows,2007,15 Step,"How come I end up where I started?
 How come I end up where I went wrong?
 Won't take my eyes off the ball again
 You reel me out, then you cut the string
@@ -1114,8 +1114,8 @@ Fifteen steps, then a sheer drop
 How come I end up where I started?
 How come I end up where I went wrong?
 Won't take my eyes off the ball again
-You reel me out, then you cut the string",come end start come end go wrong will eye ball reel cut string come end start come end go wrong will eye ball reel cut string alright happen cat tongue string come undo come soft pillow alright happen et cetera et cetera fads yay step sheer drop yay yay come end start come end go wrong will eye ball reel cut string
-1,In Rainbows,2007,Bodysnatchers,"I do not
+You reel me out, then you cut the string","how come i end up where i started? how come i end up where i went wrong? won't take my eyes off the ball again you reel me out, then you cut the string how come i end up where i started? how come i end up where i went wrong? won't take my eyes off the ball again first you reel me out and then you cut the string  you used to be alright, what happened? did the cat get your tongue? did your string come undone? one by one one by one it comes to us all it's as soft as your pillow  you used to be alright, what happened? et cetera, et cetera fads for whatever (yay!) fifteen steps, then a sheer drop  (yay! yay!)  how come i end up where i started? how come i end up where i went wrong? won't take my eyes off the ball again you reel me out, then you cut the string"
+37,1,In Rainbows,2007,Bodysnatchers,"I do not
 Understand
 What it is
 I've done wrong
@@ -1153,8 +1153,8 @@ I'm a lie
 I've seen it coming
 They've seen it coming
 They've seen it coming
-They've seen it coming",understand wrong hole check pulse blink eye yes idea talk trap body kill sound removed backbone pale imitation edge sawn idea talk mouth move hand arse light cut light go century century follow like dog bring knee get skin get skin line wrap round face line wrap round face lie see come see come see come see come
-2,In Rainbows,2007,Nude,"Don't get any big ideas
+They've seen it coming",i do not understand what it is i've done wrong full of holes check for pulse blink your eyes one for yes two for no  i have no idea what i am talking about i am trapped in this body and can't get out  you killed the sound removed backbone a pale imitation with the edges sawn off  i have no idea what you are talking about your mouth moves only with someone's hand up your arse  has the light cut out for you? because the light's gone out for me it is the twenty-first century it is the twenty-first century it can follow you like a dog it brought me to my knees they got a skin and they put me in they got a skin and they put me in on the lines wrapped 'round my face on the lines wrapped 'round my face and for anyone else to see and for anyone else to see i'm a lie  i've seen it coming they've seen it coming they've seen it coming they've seen it coming
+38,2,In Rainbows,2007,Nude,"Don't get any big ideas
 They're not gonna happen
 You paint yourself white
 And fill up with noise
@@ -1167,8 +1167,8 @@ You've gone off the rails
 So don't get any big ideas
 They're not gonna happen
 You'll go to Hell
-For what your dirty mind is thinking",big idea go to happen paint white fill noise missing find go feel go rail big idea go to happen hell dirty mind think
-3,In Rainbows,2007,Weird Fishes / Arpeggi,"In the deepest ocean
+For what your dirty mind is thinking","don't get any big ideas they're not gonna happen you paint yourself white and fill up with noise but there'll be something missing  now that you've found it, it's gone now that you feel it, you don't you've gone off the rails  so don't get any big ideas they're not gonna happen you'll go to hell for what your dirty mind is thinking"
+39,3,In Rainbows,2007,Weird Fishes / Arpeggi,"In the deepest ocean
 The bottom of the sea
 Your eyes
 They turn me
@@ -1203,8 +1203,8 @@ Escape
 I
 I hit the bottom
 Hit the bottom and escape
-Escape",deep ocean sea eye turn stay stay crazy follow follow lead eye turn turn phantom way follow edge way earth way fall yeah everybody leave way chance way way chance eat worm weird fish pick worm weird fish weird fish weird fish yeah hit hit escape escape hit hit escape escape
-4,In Rainbows,2007,All I Need,"I'm the next act waiting in the wings
+Escape","in the deepest ocean the bottom of the sea your eyes they turn me why should i stay here? why should i stay?  i'd be crazy not to follow follow where you lead your eyes they turn me turn me into phantoms (way out) i follow to the edge (way out) of the earth (way out) and fall off yeah, everybody leaves (way out) if they get the chance (way out) and this (way out) is my chance  i get eaten by the worms and weird fishes picked over by the worms and weird fishes weird fishes weird fishes   yeah, i i hit the bottom hit the bottom and escape escape i i hit the bottom hit the bottom and escape escape"
+40,4,In Rainbows,2007,All I Need,"I'm the next act waiting in the wings
 I'm an animal trapped in your hot car
 I am all the days that you choose to ignore
 
@@ -1225,8 +1225,8 @@ Lying in the reeds
 It's all wrong, it's all wrong, it's all wrong
 It's alright, it's alright, it's alright
 It's all wrong, it's alright
-It's alright, it's alright",act wait wing animal trap hot car day choose ignore need need middle picture lie reed moth want share light insect try night stick need need middle picture lie reed wrong wrong wrong alright alright alright wrong alright alright alright
-5,In Rainbows,2007,Faust Arp,"One, two, three, four
+It's alright, it's alright","i'm the next act waiting in the wings i'm an animal trapped in your hot car i am all the days that you choose to ignore  you are all i need you're all i need i'm in the middle of your picture lying in the reeds  i am a moth who just wants to share your light i'm just an insect trying to get out of the night i only stick with you because there are no others  you are all i need you're all i need i'm in the middle of your picture lying in the reeds  it's all wrong, it's all wrong, it's all wrong it's alright, it's alright, it's alright it's all wrong, it's alright it's alright, it's alright"
+41,5,In Rainbows,2007,Faust Arp,"One, two, three, four
 
 Wakey wakey, rise and shine
 It's on again, off again, on again
@@ -1265,8 +1265,8 @@ Enough of that stuff
 There's no real reason
 
 You've got a head full of feathers
-You got melted to butter",wakey wakey rise shine watch fall like domino pretty pattern fingers blackbird pie tingle tingle tingle feel ought ought reasonable sensible dead neck guess stuff stuff stuff think real reason squeeze tube bottle bow bow bow feel ought ought elephant room tumble tumble tumble duplicate triplicate plastic bag duplicate triplicate dead neck guess stuff stuff stuff think exactly love stuff real reason get head feather get melt butter
-6,In Rainbows,2007,Reckoner,"Reckoner
+You got melted to butter","one, two, three, four  wakey wakey, rise and shine it's on again, off again, on again watch me fall like dominoes in pretty patterns fingers in the blackbird pie i'm tingling, tingling, tingling it's what you feel not what you ought to what you ought to reasonable and sensible  dead from the neck up i guess i'm stuffed, stuffed, stuffed we thought you had it in you but not, not, not for no real reason  squeeze the tubes and empty bottles i take a bow, take a bow, take a bow it's what you feel not what you ought to what you ought to the elephant that's in the room is tumbling, tumbling, tumbling in duplicate and triplicate and plastic bags in duplicate and triplicate  dead from the neck up i guess i'm stuffed, stuffed, stuffed we thought you had it in you but not, not, not exactly where do you get off is enough, is enough? i love you but enough is enough enough of that stuff there's no real reason  you've got a head full of feathers you got melted to butter"
+42,6,In Rainbows,2007,Reckoner,"Reckoner
 You can't take it with you
 Dancing for your pleasure
 
@@ -1284,8 +1284,8 @@ Because we separate like ripples on a blank shore
 Reckoner
 Take me with you
 Dedicated to all hu–
-All human beings",reckoner dance pleasure blame bittersweet distractor dare speak dedicate hu human being separate like ripple blank shore rainbow separate like ripple blank shore rainbow reckoner dedicate hu human being
-7,In Rainbows,2007,House of Cards,"I don't want to be your friend
+All human beings",reckoner you can't take it with you dancing for your pleasure  you are not to blame for bittersweet distractor dare not speak its name dedicated to all hu– all human beings  because we separate like ripples on a blank shore (in rainbows) because we separate like ripples on a blank shore (in rainbows)  reckoner take me with you dedicated to all hu– all human beings
+43,7,In Rainbows,2007,House of Cards,"I don't want to be your friend
 I just want to be your lover
 No matter how it ends
 No matter how it starts
@@ -1311,8 +1311,8 @@ Denial, denial
 Denial, denial
 (Your ears should be burning)
 Denial, denial
-(Your ears should be burning)",want friend want lover matter end matter start forget house card forget house card fall table sweep denial denial infrastructure collapse voltage spike throw key bowl kiss husband goodnight forget house card forget house card fall table sweep denial denial denial denial ear burn denial denial ear burn
-8,In Rainbows,2007,Jigsaw Falling into Place,"Just as you take my hand
+(Your ears should be burning)","i don't want to be your friend i just want to be your lover no matter how it ends no matter how it starts  forget about your house of cards and i'll do mine forget about your house of cards and i'll do mine and fall off the table, get swept under denial, denial  the infrastructure will collapse from voltage spikes throw your keys in the bowl kiss your husband 'goodnight'  and forget about your house of cards and i'll do mine forget about your house of cards and i'll do mine fall off the table, get swept under denial, denial denial, denial (your ears should be burning) denial, denial (your ears should be burning)"
+44,8,In Rainbows,2007,Jigsaw Falling into Place,"Just as you take my hand
 Just as you write my number down
 Just as the drinks arrive
 Just as they play your favourite song
@@ -1355,8 +1355,8 @@ Wish away your nightmare
 Wish away the nightmare
 You got the light, you can feel it on your back
 A light, you can feel it on your back
-Your jigsaw falling into place",hand write number drink arrive play favourite song bad day disappears long wind like spring come focus wall bend shape get cheshire cat grin blur place mission night owl animal noise closed circuit camera comatose run away lose note beat go round round beat go round round get pretend word blunt instrument word sawn shotgun come let come let come let come let run away lose note mic dance dance dance jigsaw fall place explain eye pass look look twice wish away nightmare wish away nightmare get light feel light feel jigsaw fall place
-9,In Rainbows,2007,Videotape,"When I'm at the pearly gates
+Your jigsaw falling into place","just as you take my hand just as you write my number down just as the drinks arrive just as they play your favourite song as your bad day disappears no longer wound up like a spring before you've had too much come back in focus again the walls are bending shape they've got a cheshire cat grin all blurring into one this place is on a mission before the night owl before the animal noises closed circuit cameras before you're comatose  before you run away from me before you're lost between the notes the beat goes 'round and 'round the beat goes 'round and 'round i never really got there i just pretended that i had words are blunt instruments words are sawn-off shotguns come on and let it out come on and let it out come on and let it out come on and let it out before you run away from me before you're lost between the notes just as you take the mic just as you dance, dance, dance  a jigsaw falling into place so there is nothing to explain you eye each other as you pass she looks back, and you look back not just once, and not just twice wish away your nightmare wish away the nightmare you got the light, you can feel it on your back a light, you can feel it on your back your jigsaw falling into place"
+45,9,In Rainbows,2007,Videotape,"When I'm at the pearly gates
 This'll be on my videotape, my videotape
 When Mephistopheles is just beneath
 And he's reaching up to grab me
@@ -1376,8 +1376,8 @@ No matter what happens now
 You shouldn't be afraid
 Because I know today has been
 The most perfect day
-I've ever seen",pearly gate videotape videotape mephistopheles beneath reach grab good day red blue green red blue green centre spin away control videotape videotape videotape videotape videotape videotape videotape way say goodbye face face talk matter happen afraid know today perfect day see
-0,Kid A,2000,Everything in Its Right Place,"(Kid A, Kid A)
+I've ever seen","when i'm at the pearly gates this'll be on my videotape, my videotape when mephistopheles is just beneath and he's reaching up to grab me this is one for the good days and i have it all here in red, blue, green in red, blue, green you are my centre when i spin away out of control on videotape on videotape, on videotape, on videotape on videotape, on videotape, on videotape  this is my way of saying goodbye because i can't do it face to face so i'm talking to you before- no matter what happens now you shouldn't be afraid because i know today has been the most perfect day i've ever seen"
+46,0,Kid A,2000,Everything in Its Right Place,"(Kid A, Kid A)
 (Kid A, Kid A)
 
 Everything
@@ -1412,8 +1412,8 @@ Tried to say, tried to say?
 Everything
 Everything
 Everything
-Everything",kid kid kid kid right place right place right place right place yesterday wake suck lemon yesterday wake suck lemon yesterday wake suck lemon yesterday wake suck lemon right place right place right place right place colour head colour head try try try try try try
-1,Kid A,2000,Kid A,"I slip away
+Everything","(kid a, kid a) (kid a, kid a)  everything everything everything everything in its right place in its right place in its right place in its right place  yesterday, i woke up sucking a lemon yesterday, i woke up sucking a lemon yesterday, i woke up sucking a lemon yesterday, i woke up sucking a lemon  everything everything everything in its right place in its right place in its right place right place  there are two colours in my head there are two colours in my head what, what is that you tried to say? what, what was that you tried to say? tried to say, tried to say? tried to say, tried to say?  everything everything everything everything"
+47,1,Kid A,2000,Kid A,"I slip away
 I slipped on a little white lie
 
 We've got heads on sticks
@@ -1429,8 +1429,8 @@ Standing in the shadows at the end of my bed
 
 The rats and the children will follow me out of town
 Rats and children follow me out of town
-Come on, kids",slip away slip little white lie get head stick get ventriloquist get head stick get ventriloquist stand shadow end bed stand shadow end bed lie shadow end bed stand shadow end bed rat child follow town rat child follow town come kid
-2,Kid A,2000,The National Anthem,"Everyone
+Come on, kids","i slip away i slipped on a little white lie  we've got heads on sticks and you've got ventriloquists we've got heads on sticks and you've got ventriloquists  standing in the shadows at the end of my bed standing in the shadows at the end of my bed lying in the shadows at the end of my bed standing in the shadows at the end of my bed   the rats and the children will follow me out of town rats and children follow me out of town come on, kids"
+48,2,Kid A,2000,The National Anthem,"Everyone
 Everyone around here
 Everyone is so near
 It's holdin' on
@@ -1448,8 +1448,8 @@ It's holdin' on
 Holdin' on
 
 
-(Smile)",near holdin holdin near get fear holdin holdin holdin holdin holdin smile
-3,Kid A,2000,How to Disappear Completely,"That there
+(Smile)",everyone everyone around here everyone is so near it's holdin' on it's holdin' on  everyone everyone is so near everyone has got the fear it's holdin' on it's holdin' on   it's holdin' on it's holdin' on holdin' on   (smile)
+49,3,Kid A,2000,How to Disappear Completely,"That there
 That's not me
 I go
 Where I please
@@ -1487,8 +1487,8 @@ Ah-ah
 Ah-ah, ah-ah-ah
 Ah-ah-ah
 Ah-ah-ah
-Ah-ah-ah, ah-ah",walk wall float liffey happen little go moment pass yeah go happen strobe light blow speaker fireworks hurricane happenin ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah
-5,Kid A,2000,Optimistic,"Flies are buzzing 'round my head
+Ah-ah-ah, ah-ah","that there that's not me i go where i please i walk through walls i float down the liffey  i'm not here this isn't happening i'm not here i'm not here  in a little while i'll be gone the moment's already passed yeah, it's gone  and i'm not here this isn't happening i'm not here i'm not here  strobe lights and blowing speakers fireworks and hurricanes  i'm not here this isn't happenin' i'm not here i'm not here  ah-ah, ah-ah ah-ah, ah-ah ah-ah ah-ah, ah-ah-ah ah-ah-ah ah-ah-ah ah-ah-ah, ah-ah"
+51,5,Kid A,2000,Optimistic,"Flies are buzzing 'round my head
 Vultures circling the dead
 Picking up every last crumb
 The big fish eat the little ones
@@ -1529,8 +1529,8 @@ You can try the best you can
 
 Dinosaurs roaming the earth
 Dinosaurs roaming the earth
-Dinosaurs roaming the earth",fly buzz round head vulture circle dead pick crumb big fish eat little one big fish eat little one problem try good try good good good try good try good good good optimistic go market come swamp drop payload fodder animal live animal farm try good try good good good try good try good good good like help man like help man nervous mess marionette float round prison ship try good try good good good try good try good dinosaur roam earth dinosaur roam earth dinosaur roam earth
-6,Kid A,2000,In Limbo,"Lundy, Fastnet, Irish Sea
+Dinosaurs roaming the earth","flies are buzzing 'round my head vultures circling the dead picking up every last crumb the big fish eat the little ones big fish eat the little ones not my problem, give me some  you can try the best you can you can try the best you can the best you can is good enough you can try the best you can you can try the best you can the best you can is good enough  this one's optimistic this one went to market this one just came out of the swamp this one drops a payload fodder for the animals living on an animal farm  you can try the best you can you can try the best you can the best you can is good enough you can try the best you can you can try the best you can the best you can is good enough  i'd really like to help you, man i'd really like to help you, man nervous messed up marionette floating 'round on a prison ship  you can try the best you can you can try the best you can the best you can is good enough you can try the best you can you can try the best you can  dinosaurs roaming the earth dinosaurs roaming the earth dinosaurs roaming the earth"
+52,6,Kid A,2000,In Limbo,"Lundy, Fastnet, Irish Sea
 I got a message I can't read
 I got a message I can't read
 Lundy, Fastnet, Irish Sea
@@ -1566,8 +1566,8 @@ I got a message I can't read
 I got a message I can't read
 I got a message I can't read
 Come back
-Lundy, Fastnet, Irish Sea",lundy fastnet irish sea get message read get message read lundy fastnet irish sea get message read get message read hide trapdoors open spiral livin fantasy world livin fantasy world lose sea bother lose way lose way livin fantasy world livin fantasy world livin fantasy world beautiful woman world come lundy fastnet irish sea get message read get message read get message read come lundy fastnet irish sea get message read get message read get message read come lundy fastnet irish sea
-7,Kid A,2000,Idioteque,"Who's in the bunker? Who's in the bunker?
+Lundy, Fastnet, Irish Sea","lundy, fastnet, irish sea i got a message i can't read i got a message i can't read lundy, fastnet, irish sea i got a message i can't read i got a message i can't read  i'm on your side nowhere to hide trapdoors that open i spiral down  you're livin' in a fantasy world you're livin' in a fantasy world  i'm lost at sea don't bother me i've lost my way i've lost my way  you're livin' in a fantasy world you're livin' in a fantasy world you're livin' in a fantasy world the most beautiful woman in the world  come back lundy, fastnet, irish sea i got a message i can't read i got a message i can't read i got a message i can't read come back lundy, fastnet, irish sea i got a message i can't read i got a message i can't read i got a message i can't read come back lundy, fastnet, irish sea"
+53,7,Kid A,2000,Idioteque,"Who's in the bunker? Who's in the bunker?
 Women and children first, and the children first, and the children
 I'll laugh until my head comes off
 I'll swallow 'til I burst, until I burst, until I
@@ -1606,8 +1606,8 @@ Everything all of the time (—n first, —n first, and the children, —n first
 —n first, and the children, —n first and the ch—
 —n first, —n first, and the children, —n first and the children
 —n first, and the children, —n first and the ch—
-—n first, —n first, and the children, —n first and the children)",bunker bunker woman child child child laugh head come swallow til burst burst bunker bunker see see see laugh head come woman child child child allow time allow time ice age comin ice age comin let hear side let hear side let hear ice age comin ice age comin throw fire throw fire throw scaremongerin happenin happenin scaremongerin happenin happenin mobiles skwerke mobile chirp money run money run money allow n child n ch time n n child n child allow n child n ch time n n child n child allow n child n ch time n n child n child allow n child n ch time n n child n child n child n ch n n child n child n child n ch n n child n child n child n ch n n child n child
-8,Kid A,2000,Morning Bell,"The morning bell
+—n first, —n first, and the children, —n first and the children)","who's in the bunker? who's in the bunker? women and children first, and the children first, and the children i'll laugh until my head comes off i'll swallow 'til i burst, until i burst, until i who's in the bunker? who's in the bunker? i have seen too much, you haven't seen enough, you haven't seen it i'll laugh until my head comes off women and children first, and children first and children  here i'm allowed everything all of the time here i'm allowed everything all of the time  ice age comin', ice age comin' let me hear both sides, let me hear both sides, let me hear both ice age comin', ice age comin' throw him in the fire, throw him in the fire, throw him on the we're not scaremongerin' this is really happenin', happenin' we're not scaremongerin' this is really happenin', happenin' mobiles skwerking, mobiles chirping take the money and run, take the money and run, take the money  here i'm allowed (—n first, and the children, —n first and the ch—) everything all of the time (—n first, —n first, and the children, —n first and the children) here i'm allowed (—n first, and the children, —n first and the ch—) everything all of the time (—n first, —n first, and the children, —n first and the children) here i'm allowed (—n first, and the children, —n first and the ch—) everything all of the time (—n first, —n first, and the children, —n first and the children) here i'm allowed (—n first, and the children, —n first and the ch—) everything all of the time (—n first, —n first, and the children, —n first and the children)  (—n first, and the children, —n first and the ch— —n first, —n first, and the children, —n first and the children —n first, and the children, —n first and the ch— —n first, —n first, and the children, —n first and the children —n first, and the children, —n first and the ch— —n first, —n first, and the children, —n first and the children)"
+54,8,Kid A,2000,Morning Bell,"The morning bell
 The morning bell
 Light another candle and
 
@@ -1657,8 +1657,8 @@ Walkin', walkin', walkin', walkin'
 Walkin', walkin', walkin', walkin'
 Walkin', walkin', walkin', walkin'
 Walkin', walkin', walkin', walkin'
-Walkin', walkin', walkin', walkin'",morning bell morning bell light candle release release furniture bump head howlin chimney release release release release park car park car clothe lawn furniture sleepy jack fire drill round round round round round round round round cut kid half cut kid half cut kid half light home everybody want friend light home want slave walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin light home everybody want friend light home want slave walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin walkin
-9,Kid A,2000,Motion Picture Soundtrack,"Red wine and sleeping pills
+Walkin', walkin', walkin', walkin'","the morning bell the morning bell light another candle and  release me release me  you can keep the furniture a bump on the head howlin' down the chimney  release me release me please release me release me  where'd you park the car? where'd you park the car? clothes are on the lawn with the furniture now i might as well i might as well sleepy jack the fire drill round and round and round and round and round and round and round and round  cut the kids in half cut the kids in half cut the kids in half  the lights are on but nobody's home everybody wants to be a friend the lights are on but nobody's home nobody wants to be a slave walkin', walkin', walkin', walkin' walkin', walkin', walkin', walkin' walkin', walkin', walkin', walkin' walkin', walkin', walkin', walkin' the lights are on but nobody's home everybody wants to be a friend the lights are on but nobody's home nobody wants to be a slave walkin', walkin', walkin', walkin' walkin', walkin', walkin', walkin' walkin', walkin', walkin', walkin' walkin', walkin', walkin', walkin' walkin', walkin', walkin', walkin' walkin', walkin', walkin', walkin' walkin', walkin', walkin', walkin'"
+55,9,Kid A,2000,Motion Picture Soundtrack,"Red wine and sleeping pills
 Help me get back to your arms
 Cheap sex and sad films
 Help me get where I belong
@@ -1674,8 +1674,8 @@ They fed us on little white lies
 I think you're crazy, maybe
 I think you're crazy, maybe
 
-I will see you in the next life",red wine sleeping pill help arm cheap sex sad film help belong think crazy maybe think crazy maybe stop send letter letter burn like movie feed little white lie think crazy maybe think crazy maybe life
-0,The Bends,1995,Planet Telex,"You can force it, but it will not come
+I will see you in the next life","red wine and sleeping pills help me get back to your arms cheap sex and sad films help me get where i belong  i think you're crazy, maybe i think you're crazy, maybe  stop sending letters letters always get burned it's not like the movies they fed us on little white lies  i think you're crazy, maybe i think you're crazy, maybe  i will see you in the next life"
+57,0,The Bends,1995,Planet Telex,"You can force it, but it will not come
 You can taste it, but it will not form
 You can crush it, but it's always here
 You can crush it, but it's always near
@@ -1705,8 +1705,8 @@ Everything is broken
 
 Why can't you forget?
 Why can't we forget?
-Why can't you forget?",force come taste form crush crush near chase home say break break force stay stone crush dry bone walk home straight school kiss break rule rule break break break break forget forget forget
-1,The Bends,1995,The Bends,"(Turn it up, loud!)
+Why can't you forget?","you can force it, but it will not come you can taste it, but it will not form you can crush it, but it's always here you can crush it, but it's always near chasing you home saying  everything is broken everyone is broken  you can force it, but it will stay stone you can crush it as dry as a bone you can walk it home straight from school you can kiss it, you can break all the rules all of the rules but still  everything is broken everyone is broken everyone is everyone is broken everyone is everything is broken  why can't you forget? why can't we forget? why can't you forget?"
+58,1,The Bends,1995,The Bends,"(Turn it up, loud!)
 (Bring it up!)
 
 Where do we go from here?
@@ -1754,8 +1754,8 @@ I wanna be a part of the human race, race, race, race
 
 Where do we go from here?
 The words are coming out all weird
-Where are you now when I need you?",turn loud bring word come weird need aeroplane fall asleep windowpane thicken need wash hide dirt pain scar underneath real friend get bend sink low baby get bend oh real friend lie bar drip feed talk girlfriend wait happen wish wish happy wish wish wish happen planet gunboat sea fear bring cia tank marine blow away blow sky high baby get bend real friend lie bar drip feed talk girlfriend wait happen wish wish happy wish wish wish happen wanna live breathe wanna human race wanna live breathe wanna human race race race race word come weird need
-2,The Bends,1995,High and Dry,"Two jumps in a week
+Where are you now when I need you?","(turn it up, loud!) (bring it up!)  where do we go from here? the words are coming out all weird where are you now when i need you? alone on an aeroplane falling asleep against the windowpane my blood'll thicken  i need to wash myself again to hide all the dirt and pain 'cause i'd be scared that there's nothing underneath and who are my real friends? have they all got the bends? am i really sinking this low?  my baby's got the bends, oh no we don't have any real friends no, no, no  just lying in a bar with my drip feed on talking to my girlfriend, waiting for something to happen i wish it was the '60s, i wish we could be happy i wish, i wish, i wish that something would happen  where do we go from here? the planet is a gunboat in a sea of fear and where are you? they brought in the cia the tanks and the whole marines to blow me away, to blow me sky high  my baby's got the bends we don't have any real friends  just lying in a bar with my drip feed on talking to my girlfriend, waiting for something to happen i wish it was the '60s, i wish we could be happy i wish, i wish, i wish that something would... (happen)  i wanna live, breathe i wanna be a part of the human race i wanna live, breathe i wanna be a part of the human race, race, race, race  where do we go from here? the words are coming out all weird where are you now when i need you?"
+59,2,The Bends,1995,High and Dry,"Two jumps in a week
 I bet you think that's pretty clever, don't you, boy?
 Flying on your motorcycle
 Watching all the ground beneath you drop
@@ -1796,8 +1796,8 @@ Don't leave me dry
 
 Don't leave me high
 Don't leave me high
-Don't leave me dry](1432689)",jump week bet think pretty clever boy fly motorcycle watch ground beneath drop kill recognition kill stop break mirror turn leave high leave dry leave high leave dry dry conversation talk inside fall piece sit wish love one hate think get world susse one spit scream leave high leave dry leave high leave dry oh good thing good thing good thing good thing go away leave high leave dry leave high leave dry leave high leave high leave
-3,The Bends,1995,Fake Plastic Trees,"Her green plastic watering can
+Don't leave me dry](1432689)","two jumps in a week i bet you think that's pretty clever, don't you, boy? flying on your motorcycle watching all the ground beneath you drop you'd kill yourself for recognition kill yourself to never, ever stop you broke another mirror you're turning into something you are not  don't leave me high don't leave me dry don't leave me high don't leave me dry  drying up in conversation you will be the one who cannot talk all your insides fall to pieces you just sit there wishing you could still make love they're the ones who'll hate you when you think you've got the world all sussed out they're the ones who'll spit at you you will be the one screaming out  don't leave me high don't leave me dry don't leave me high don't leave me dry   oh, it's the best thing that you've ever had the best thing that you've ever, ever had it's the best thing that you've ever had the best thing you've had has gone away  [so don't leave me high don't leave me dry don't leave me high don't leave me dry  don't leave me high don't leave me high don't leave me dry](1432689)"
+60,3,The Bends,1995,Fake Plastic Trees,"Her green plastic watering can
 For her fake Chinese rubber plant
 In a fake plastic Earth
 That she bought from a rubber man
@@ -1836,8 +1836,8 @@ It wears me out
 And if I could be who you wanted
 If I could be who you wanted
 All the time
-All the time",green plastic watering fake chinese rubber plant fake plastic earth buy rubber man town rubber plan rid wear wear wear wear live broken man crack polystyrene man crumble burn surgery girl eighty gravity win wear wear wear wear look like real thing taste like real thing fake plastic love help feeling blow ceiling turn run wear wear wear wear want want time time
-4,The Bends,1995,Bones,"I don't want to be crippled and cracked
+All the time",her green plastic watering can for her fake chinese rubber plant in a fake plastic earth that she bought from a rubber man in a town full of rubber plans to get rid of itself  it wears her out it wears her out it wears her out it wears her out  she lives with a broken man a cracked polystyrene man who just crumbles and burns he used to do surgery for girls in the eighties but gravity always wins  and it wears him out it wears him out it wears him out it wears  she looks like the real thing she tastes like the real thing my fake plastic love but i can't help the feeling i could blow through the ceiling if i just turn and run  and it wears me out it wears me out it wears me out it wears me out  and if i could be who you wanted if i could be who you wanted all the time all the time
+61,4,The Bends,1995,Bones,"I don't want to be crippled and cracked
 Shoulders, wrists, knees, and back
 Ground to dust and ash
 Crawling on all fours
@@ -1857,8 +1857,8 @@ All the children flew when I touched their hands
 
 Listen, you've got to feel it in your bones
 Listen, you've got to feel it in your bones
-Ah, ah, ah",want crippled crack shoulders wrist knee ground dust ash crawl four get feel bone get feel bone climb stair piece miss prozac painkiller get feel bone get feel bone fly like peter pan child fly touch hand listen get feel bone listen get feel bone ah ah ah
-5,The Bends,1995,(Nice Dream),"They love me like I was a brother
+Ah, ah, ah","i don't want to be crippled and cracked shoulders, wrists, knees, and back ground to dust and ash crawling on all fours  when you've got to feel it in your bones when you've got to feel it in your bones  now i can't climb the stairs pieces missing everywhere prozac, painkillers  when you've got to feel it in your bones when you've got to feel it in your bones  and i used to fly like peter pan all the children flew when i touched their hands  listen, you've got to feel it in your bones listen, you've got to feel it in your bones ah, ah, ah"
+62,5,The Bends,1995,(Nice Dream),"They love me like I was a brother
 They protect me, listen to me
 They dug me my very own garden
 Gave me sunshine, made me happy
@@ -1891,8 +1891,8 @@ Now come home
 Nice dream
 Nice dream
 Nice dream
-Nice dream",love like brother protect listen dig garden give sunshine happy nice dream nice dream nice dream friend good angel answerphone say love come help sea electrocute nice dream nice dream nice dream nice dream nice dream nice dream nice dream think strong nice dream think belong nice dream think strong nice dream think belong come home come home come home come home nice dream nice dream nice dream nice dream
-6,The Bends,1995,Just,"Can't get the stink off
+Nice dream","they love me like i was a brother they protect me, listen to me they dug me my very own garden gave me sunshine, made me happy  nice dream nice dream nice dream  i call up my friend, the good angel but she's out with her answerphone she said that she'd love to come help, but the sea would electrocute us all  nice dream nice dream nice dream nice dream nice dream nice dream nice dream (if you think that you're strong enough) nice dream (if you think you belong enough) nice dream (if you think that you're strong enough) nice dream (if you think you belong enough)  now come home now come home now come home now come home  nice dream nice dream nice dream nice dream"
+63,6,The Bends,1995,Just,"Can't get the stink off
 He's been hanging 'round for days
 Comes like a comet
 Suckered you but not your friends
@@ -1934,8 +1934,8 @@ Self
 (You do it to yourself)
 (You do it to yourself)
 (Oh, you do it to yourself)
-(Oh, you do it to yourself)",stink hang round day come like comet suckere friend day teach holy cow hurt sympathy hang fifteenth floor change lock time come reel door day teach purest hell hurt ah self self self hurt ow self oh oh
-7,The Bends,1995,My Iron Lung,"Faith, you're driving me away
+(Oh, you do it to yourself)","can't get the stink off he's been hanging 'round for days comes like a comet suckered you but not your friends one day he'll get to you and teach you how to be a holy cow  you do it to yourself, you do and that's what really hurts is that you do it to yourself, just you you and no one else you do it to yourself you do it to yourself  don't get my sympathy hanging out the fifteenth floor you've changed the locks three times he still come reeling through the door one day i'll get to you and teach you how to get to purest hell  you do it to yourself, you do and that's what really hurts is that you do it to yourself, just you you and no one else you do it to yourself you do it to yourself, ah   (self, self, self)  you do it to yourself, you do and that's what really hurts is you do it to yourself, just you you and no one else you do it to yourself you do it to yourself, ow self  (you do it to yourself) (you do it to yourself) (oh, you do it to yourself) (oh, you do it to yourself)"
+64,7,The Bends,1995,My Iron Lung,"Faith, you're driving me away
 You do it every day
 You don't mean it, but it hurts like hell
 My brain says I'm receiving pain
@@ -1975,8 +1975,8 @@ You can be, it's okay
 The headshrinkers, they want my everything
 My uncle Bill, my Belisha beacon
 The headshrinkers, they want my everything
-My uncle Bill, my Belisha beacon",faith drive away day mean hurt like hell brain say receive pain lack oxygen life support iron lung young fall asleep cynical speak lose tell scratch eternal itch twentieth century bitch grateful iron lung headshrinker want uncle bill belisha beacon headshrinker want uncle bill belisha beacon suck suck teenage thumb toilet train dumb power run hum new song like total waste time iron lung headshrinker want uncle bill belisha beacon headshrinker want uncle bill belisha beacon frightened frighten okay frightened frighten okay headshrinker want uncle bill belisha beacon headshrinker want uncle bill belisha beacon
-8,The Bends,1995,Bullet Proof... I Wish I Was,"Limb by limb and tooth by tooth
+My uncle Bill, my Belisha beacon","faith, you're driving me away you do it every day you don't mean it, but it hurts like hell my brain says i'm receiving pain a lack of oxygen from my life support, my iron lung  we're too young to fall asleep too cynical to speak we are losing it, can't you tell? we scratch our eternal itch our twentieth century bitch we are grateful for our iron lung  the headshrinkers, they want my everything my uncle bill, my belisha beacon the headshrinkers, they want my everything my uncle bill, my belisha beacon  suck, suck your teenage thumb toilet trained and dumb when the power runs out, we'll just hum this, this is our new song just like the last one a total waste of time, my iron lung  the headshrinkers, they want my everything my uncle bill, my belisha beacon the headshrinkers, they want my everything my uncle bill, my belisha beacon  and if you're frightened, you can be frightened you can be, it's okay and if you're frightened, you can be frightened you can be, it's okay   the headshrinkers, they want my everything my uncle bill, my belisha beacon the headshrinkers, they want my everything my uncle bill, my belisha beacon"
+65,8,The Bends,1995,Bullet Proof... I Wish I Was,"Limb by limb and tooth by tooth
 Is tearing up inside of me
 Every day, every hour
 Wish that I... was bulletproof
@@ -1997,8 +1997,8 @@ All surrogate
 And bulletproof
 And bulletproof
 And bulletproof (Stop it, stop it, stop it)
-And Bulletproof (Stop it, Stop it, Stop it)",limb limb tooth tooth tear inside day hour wish bulletproof wax mould heat pin stab turn wish bulletproof bulletproof pay money shot lead fill hole burst million bubble surrogate bulletproof bulletproof bulletproof stop stop stop bulletproof stop stop stop
-9,The Bends,1995,Black Star,"I get home from work
+And Bulletproof (Stop it, Stop it, Stop it)","limb by limb and tooth by tooth is tearing up inside of me every day, every hour wish that i... was bulletproof  wax me, mould me heat the pins and stab them in you have turned me into this just wish that it  was bulletproof was bulletproof  so, pay me money and take a shot lead, fill the hole in me i could burst a million bubbles all surrogate  and bulletproof and bulletproof and bulletproof (stop it, stop it, stop it) and bulletproof (stop it, stop it, stop it)"
+66,9,The Bends,1995,Black Star,"I get home from work
 And you're still standing in your dressing gown
 Well, what am I to do?
 I know all the things around your head
@@ -2039,8 +2039,8 @@ Blame it on the satellite
 That beams me home
 
 Cruel, this is killing me
-Cruel, this is killing me",home work stand dressing gown know thing head come go to blame black star blame fall sky blame satellite beam home troubled word troubled mind try understand eat try stay awake hour sleep come know anymore blame black star blame fall sky blame satellite beam home train stand think fall pass face like come go to melt blame black star blame fall sky blame satellite beam home cruel kill cruel kill
-10,The Bends,1995,Sulk,"You bite through the big wall, the big wall bites back
+Cruel, this is killing me","i get home from work and you're still standing in your dressing gown well, what am i to do? i know all the things around your head and what they do to you  what are we coming to? what are we gonna do?  blame it on the black star blame it on the falling sky blame it on the satellite that beams me home  the troubled words of a troubled mind i try to understand what is eating you i try to stay awake, but it's fifty-eight hours since that i last slept with you  what are we coming to? i just don't know anymore  blame it on the black star blame it on the falling sky blame it on the satellite that beams me home  i get on the train and i just stand about now that i don't think of you i keep falling over, i keep passing out when i see a face like you  what am i coming to? i'm gonna melt down  blame it on the black star blame it on the falling sky blame it on the satellite that beams me home  cruel, this is killing me cruel, this is killing me"
+67,10,The Bends,1995,Sulk,"You bite through the big wall, the big wall bites back
 You sit there and sulk, you sit there and bawl
 You look so pretty when you're on your knees
 Disinfected and eager to please
@@ -2064,8 +2064,8 @@ Just like your dad, you'll never change
 Sometimes you sulk, sometimes you burn
 God rest your soul
 Oh, when the loving comes but we've already gone
-Just like your dad, you'll never change",bite big wall big wall bite sit sulk sit bawl look pretty knee disinfect eager sulk burn god rest soul oh loving come go like dad change time come eat alive try behave eat alive declare holiday fall asleep drift away sulk burn god rest soul oh loving come go like dad change sulk burn god rest soul oh loving come go like dad change
-11,The Bends,1995,Street Spirit (Fade Out),"Rows of houses all bearing down on me
+Just like your dad, you'll never change","you bite through the big wall, the big wall bites back you sit there and sulk, you sit there and bawl you look so pretty when you're on your knees disinfected and eager to please  sometimes you sulk, sometimes you burn god rest your soul oh, when the loving comes and we've already gone just like your dad, you'll never change  each time it comes, it eats me alive i try to behave but it eats me alive so i declare a holiday fall asleep, drift away  sometimes you sulk, sometimes you burn god rest your soul oh, when the loving comes and we’ve already gone just like your dad, you'll never change   sometimes you sulk, sometimes you burn god rest your soul oh, when the loving comes but we've already gone just like your dad, you'll never change"
+68,11,The Bends,1995,Street Spirit (Fade Out),"Rows of houses all bearing down on me
 I can feel their blue hands touching me
 All these things into position
 All these things we'll one day swallow whole
@@ -2099,8 +2099,8 @@ Ah-na-na, ah-na-na
 Ah-na-na, ah-na-na
 Immerse your soul in love (Ah-na-na, ah-na-na)
 (Ah-na-na, ah-na-na)
-Immerse your soul in love (Ah-na-na, ah-na-na)",row house bear feel blue hand touch thing position thing day swallow fade fade machine communicate thought strain world child form circle fade fade ah na na ah na na ah na na ah na na ah na na ah na na cracked egg dead bird scream fight life feel death beady eye thing position thing day swallow fade fade ah na na ah na na ah na na ah na na ah na na ah na na ah na na ah na na immerse soul love ah na na ah na na ah na na ah na na immerse soul love ah na na ah na na
-0,OK Computer,1997,Airbag,"[Verse 1]
+Immerse your soul in love (Ah-na-na, ah-na-na)","rows of houses all bearing down on me i can feel their blue hands touching me all these things into position all these things we'll one day swallow whole  and fade out again and fade out  this machine will, will not communicate these thoughts and the strain i am under be a world child, form a circle before we all go under  and fade out again and fade out again  ah-na-na, ah-na-na ah-na-na, ah-na-na ah-na-na, ah-na-na  cracked eggs, dead birds, scream as they fight for life i can feel death, can see its beady eyes all these things into position all these things we'll one day swallow whole  and fade out again and fade out again  ah-na-na, ah-na-na ah-na-na, ah-na-na ah-na-na, ah-na-na ah-na-na, ah-na-na immerse your soul in love (ah-na-na, ah-na-na) (ah-na-na, ah-na-na) immerse your soul in love (ah-na-na, ah-na-na)"
+69,0,OK Computer,1997,Airbag,"[Verse 1]
 In the next world war
 A jackknifed juggernaut
 I am born again
@@ -2132,8 +2132,8 @@ I am back to save the universe
 In an interstellar burst
 I am back to save the universe
 
-[Instrumental Outro]",verse world war jackknifed juggernaut bear neon sign scroll bear refrain interstellar burst save universe verse deep deep sleep innocent bear fast german car amazed survive airbag save life refrain interstellar burst save universe instrumental break refrain interstellar burst save universe interstellar burst save universe instrumental outro
-1,OK Computer,1997,Paranoid Android,"[Part I]
+[Instrumental Outro]","[verse 1] in the next world war a jackknifed juggernaut i am born again in a neon sign scrolling up and down i am born again  [refrain] in an interstellar burst i'm back to save the universe  [verse 2] in a deep, deep sleep of the innocent i am born again in a fast german car i'm amazed that i survived an airbag saved my life  [refrain] in an interstellar burst i am back to save the universe  [instrumental break]  [refrain] in an interstellar burst i am back to save the universe in an interstellar burst i am back to save the universe  [instrumental outro]"
+70,1,OK Computer,1997,Paranoid Android,"[Part I]
 
 [Verse 1]
 Please could you stop the noise? I'm trying to get some rest
@@ -2187,8 +2187,8 @@ God loves his children, yeah
 
 [Part IV]
 
-[Instrumental]",verse stop noise try rest unborn chicken voice head refrain paranoid android paranoid android verse king wall opinion consequence refrain paranoid android paranoid android ii verse ambition make look pretty ugly kicking squealing gucci little piggy verse remember remember remember head man head man remember guess guitar solo iii verse rain rain come rain great height great height height rain rain come rain great height great height height rain sir leave rain crackle pigskin come rain dust screaming yuppie network great height panic vomit great height panic vomit god love child god love child yeah iv instrumental
-2,OK Computer,1997,Subterranean Homesick Alien,"[Verse 1]
+[Instrumental]","[part i]  [verse 1] please could you stop the noise? i'm trying to get some rest from all the unborn chicken voices in my head  [refrain] what's that? (i may be paranoid but not an android) what's that? (i may be paranoid but not an android)  [verse 2] when i am king you will be first against the wall with your opinion, which is of no consequence at all  [refrain] what's that? (i may be paranoid but not an android) what's that? (i may be paranoid but not an android)  [part ii]  [verse 3] ambition makes you look pretty ugly kicking, squealing, gucci little piggy  [verse 4] you don't remember, you don't remember why don't you remember my name? off with his head, man, off with his head, man why don't you remember my name? i guess he does  [guitar solo]  [part iii]  [verse 5] rain down, rain down come on, rain down on me from a great height from a great height, height rain down, rain down come on, rain down on me from a great height from a great height, height (rain down) that's it, sir, you're leaving (rain down) the crackle of pigskin (come on, rain down) the dust and the screaming (on me) the yuppies networking and (from a great height) the panic, the vomit (from a great height) the panic, the vomit god loves his children god loves his children, yeah  [part iv]  [instrumental]"
+71,2,OK Computer,1997,Subterranean Homesick Alien,"[Verse 1]
 The breath of the morning, I keep forgettin'
 The smell of the warm summer air
 I live in a town where you can't smell a thing
@@ -2225,8 +2225,8 @@ I'm just uptight, uptight
 Uptight, uptight
 Uptight, uptight
 Uptight, uptight
-Uptight",verse breath morning forgettin smell warm summer air live town smell thing watch foot crack pavement verse alien hover makin home movie folk home weird creature lock spirit drill hole emselve live secret chorus uptight uptight uptight uptight uptight uptight verse wish swoop country lane late night drivin onboard beautiful ship world love verse tell friend believe think finally lose completely star meaning life shut away alright alright alright alright chorus uptight uptight uptight uptight uptight uptight uptight uptight uptight
-3,OK Computer,1997,Exit Music (For a Film),"[Verse 1]
+Uptight","[verse 1] the breath of the morning, i keep forgettin' the smell of the warm summer air i live in a town where you can't smell a thing you watch your feet for cracks in the pavement  [verse 2] and up above, aliens hover makin' home movies for the folks back home of all these weird creatures who lock up their spirits drill holes in 'emselves, and live for their secrets  [chorus] they're all uptight, uptight uptight, uptight uptight, uptight up  [verse 3] i wish that they'd swoop down in a country lane late at night when i'm drivin' take me onboard their beautiful ship show me the world as i'd love to see it  [verse 4] i'd tell all my friends, but they'd never believe me they'd think that i'd finally lost it completely i'd show them the stars and the meaning of life they'd shut me away, but i'd be alright alright, i'm alright alright  [chorus] i'm just uptight, uptight uptight, uptight uptight, uptight uptight, uptight uptight"
+72,3,OK Computer,1997,Exit Music (For a Film),"[Verse 1]
 Wake from your sleep
 The drying of your tears
 Today we escape, we escape
@@ -2259,8 +2259,8 @@ We hope that you choke, that you choke
 
 [Outro]
 We hope that you choke, that you choke
-We hope that you choke, that you choke",verse wake sleep drying tear today escape escape verse pack dressed father hear hell break loose bridge breathe breathe lose nerve breathe breathe verse sing song song warm chill chill bridge laugh spineless laugh hope rule wisdom choke verse everlasting peace hope choke choke outro hope choke choke hope choke choke
-4,OK Computer,1997,Let Down,"[Verse 1]
+We hope that you choke, that you choke","[verse 1] wake from your sleep the drying of your tears today we escape, we escape  [verse 2] pack and get dressed before your father hears us before all hell breaks loose  [bridge] breathe, keep breathing don't lose your nerve breathe, keep breathing i can't do this alone  [verse 3] sing us a song a song to keep us warm there's such a chill, such a chill  [bridge] you can laugh a spineless laugh we hope your rules and wisdom choke you  [verse 4] now we are one in everlasting peace we hope that you choke, that you choke  [outro] we hope that you choke, that you choke we hope that you choke, that you choke"
+73,4,OK Computer,1997,Let Down,"[Verse 1]
 Transport, motorways and tramlines
 Starting and then stopping
 Taking off and landing
@@ -2307,8 +2307,8 @@ Hysterical and (You know where you are)
 [Chorus]
 Let down and hanging around
 Crushed like a bug in the ground
-Let down and hanging around",verse transport motorway tramline start stop take land emptiest feeling disappointed people cling bottle come disappointing chorus let hang crush like bug ground let hang verse shell smash juice flow wings twitch leg go sentimental end drivel day go to grow wing chemical reaction hysterical useless hysterical chorus let hang crush like bug ground let hang bridge let let let verse know know know floor collapse float bounce day day go to grow wing chemical reaction know hysterical useless know hysterical know chorus let hang crush like bug ground let hang
-5,OK Computer,1997,Karma Police,"[Verse 1]
+Let down and hanging around","[verse 1] transport, motorways and tramlines starting and then stopping taking off and landing the emptiest of feelings disappointed people clinging onto bottles and when it comes it's so, so disappointing  [chorus] let down and hanging around crushed like a bug in the ground let down and hanging around  [verse 2] shell smashed, juices flowing wings twitch, legs are going don't get sentimental it always ends up drivel one day, i am gonna grow wings a chemical reaction hysterical and useless hysterical and  [chorus] let down and hanging around crushed like a bug in the ground let down and hanging around  [bridge] let down again let down again let down again  [verse 3] you know, you know where you are with you know where you are with floor collapsing, floating, bouncing back (and one day) one day, i am gonna grow wings a chemical reaction (you know where you are) hysterical and useless (you know where you are) hysterical and (you know where you are)  [chorus] let down and hanging around crushed like a bug in the ground let down and hanging around"
+74,5,OK Computer,1997,Karma Police,"[Verse 1]
 Karma police, arrest this man
 He talks in maths, he buzzes like a fridge
 He's like a detuned radio
@@ -2343,8 +2343,8 @@ I lost myself, I lost myself
 Oh, for a minute there
 I lost myself, I lost myself
 Phew, for a minute there
-I lost myself, I lost myself",verse karma police arrest man talk math buzz like fridge like detune radio verse karma police arrest girl hitler hairdo make feel ill crash party chorus mess verse karma police give give payroll chorus mess outro minute lose lose phew minute lose lose oh minute lose lose phew minute lose lose
-6,OK Computer,1997,Fitter Happier,"[Spoken Verse]
+I lost myself, I lost myself","[verse 1] karma police, arrest this man he talks in maths, he buzzes like a fridge he's like a detuned radio  [verse 2] karma police, arrest this girl her hitler hairdo is making me feel ill and we have crashed her party  [chorus] this is what you get this is what you get this is what you get when you mess with us  [verse 3] karma police, i've given all i can it's not enough, i've given all i can but we're still on the payroll  [chorus] this is what you get this is what you get this is what you get when you mess with us  [outro] for a minute there i lost myself, i lost myself phew, for a minute there i lost myself, i lost myself oh, for a minute there i lost myself, i lost myself phew, for a minute there i lost myself, i lost myself"
+75,6,OK Computer,1997,Fitter Happier,"[Spoken Verse]
 Fitter, happier, more productive
 Comfortable, not drinking too much
 Regular exercise at the gym three days a week
@@ -2394,8 +2394,8 @@ That's driven into frozen winter shit
 The ability to laugh at weakness
 Calm
 Fitter, healthier and more productive
-A pig in a cage on antibiotics",spoken verse fitter happy productive comfortable drink regular exercise gym day week panic office section hit activate follow procedure get well associate employee contemporary ease eat microwave dinner saturate fat patient well driver safe car baby smile seat sleep bad dream paranoia careful animal wash spider plughole contact old friend enjoy drink frequently check credit moral bank hole wall favors favor fond love charity standing order sundays ring road supermarket kill moth put boiling water ant car wash sundays long afraid dark midday shadow ridiculously teenage desperate childish well pace slow calculated chance escape self employ concerned powerless empower informed member society pragmatism idealism cry public chance illness tires grip wet shot baby strap seat good memory cry good film kiss saliva long frantic like cat tie stick drive frozen winter shit ability laugh weakness calm fitter healthy productive pig cage antibiotic
-7,OK Computer,1997,Electioneering,"[Verse 1]
+A pig in a cage on antibiotics","[spoken verse] fitter, happier, more productive comfortable, not drinking too much regular exercise at the gym three days a week (""this is the panic office, section 917 may have been hit"") (""activate following procedure"") getting on better with your associate employee contemporaries at ease eating well no more microwave dinners and saturated fats a patient, better driver a safer car baby smiling in back seat sleeping well, no bad dreams no paranoia careful to all animals never washing spiders down the plughole keep in contact with old friends enjoy a drink now and then will frequently check credit at moral bank hole in wall favors for favors fond, but not in love charity standing orders on sundays ring road supermarket no killing moths or putting boiling water on the ants car wash, also on sundays no longer afraid of the dark or midday shadows nothing so ridiculously teenage and desperate nothing so childish at a better pace slower and more calculated no chance of escape now self-employed concerned, but powerless an empowered and informed member of society pragmatism, not idealism will not cry in public less chance of illness tires that grip in the wet shot of baby strapped in back seat a good memory still cries at a good film still kisses with saliva no longer empty and frantic like a cat, tied to a stick that's driven into frozen winter shit the ability to laugh at weakness calm fitter, healthier and more productive a pig in a cage on antibiotics"
+76,7,OK Computer,1997,Electioneering,"[Verse 1]
 I will stop, I will stop at nothin'
 Say the right things when electioneering
 I trust I can rely on your vote
@@ -2422,8 +2422,8 @@ And somewhere we will meet
 When I go forwards, you go backwards
 And somewhere we will meet
 
-[Instrumental Outro]",verse stop stop right thing electioneer trust rely vote chorus forwards backwards meet forwards backwards meet interlude ha ha ha woop woop verse riot shield voodoo economic turn turn business cattle prod imf trust rely vote chorus forwards backwards meet forwards backwards meet instrumental outro
-8,OK Computer,1997,Climbing Up the Walls,"[Verse 1]
+[Instrumental Outro]","[verse 1] i will stop, i will stop at nothin' say the right things when electioneering i trust i can rely on your vote  [chorus] when i go forwards, you go backwards and somewhere we will meet when i go forwards, you go backwards and somewhere we will meet  [interlude] (ha, ha, ha!) (woop, woop)  [verse 2] riot shields, voodoo economics your turn, your turn it's just business, cattle prods and the imf i trust i can rely on your vote  [chorus] when i go forwards, you go backwards and somewhere we will meet when i go forwards, you go backwards and somewhere we will meet  [instrumental outro]"
+77,8,OK Computer,1997,Climbing Up the Walls,"[Verse 1]
 I am the key to the lock in your house
 That keeps your toys in the basement
 And if you get too far inside
@@ -2461,8 +2461,8 @@ Climbing up the walls
 
 [Outro]
 Climbing up the walls
-Climbing up the walls",verse key lock house keep toy basement far inside reflection verse best cover pick ice cry hit alarm know friend till die chorus way turn open skull climb wall verse well light well outside blow head blow mind verse lock kid safe tonight shut eye cupboard get smile local man get lonely feeling chorus way turn open skull climb wall instrumental break outro climb wall climb wall
-9,OK Computer,1997,No Surprises,"[Verse 1]
+Climbing up the walls","[verse 1] i am the key to the lock in your house that keeps your toys in the basement and if you get too far inside you'll only see my reflection  [verse 2] it's always best with the covers up i am the pick in the ice do not cry out, or i'll hit the alarm you know we're friends till we die  [chorus] but either way you turn, i'll be there open up your skull, i'll be there climbing up the walls  [verse 3] it's always best when the light is off it's always better on the outside fifteen blows to the back of your head fifteen blows to your mind  [verse 4] so lock the kids up safe tonight shut the eyes in the cupboard i've got the smile of a local man who's got the loneliest feeling  [chorus] and either way he turns, i'll be there open up your skull, i'll be there climbing up the walls  [instrumental break]  [outro] climbing up the walls climbing up the walls"
+78,9,OK Computer,1997,No Surprises,"[Verse 1]
 A heart that's full up like a landfill
 A job that slowly kills you
 Bruises that won't heal
@@ -2495,8 +2495,8 @@ Such a pretty house
 And such a pretty garden
 No alarms and no surprises (Let me out of here)
 No alarms and no surprises (Let me out of here)
-No alarms and no surprises, please (Let me out of here)",verse heart like landfill job slowly kill bruise will heal verse look tired unhappy bring government speak verse quiet life handshake carbon monoxide alarm surprise alarm surprise alarm surprise silent silent verse final fit final bellyache alarm surprise alarm surprise alarm surprise instrumental break verse pretty house pretty garden alarm surprise let alarm surprise let alarm surprise let
-10,OK Computer,1997,Lucky,"[Verse 1]
+No alarms and no surprises, please (Let me out of here)","[verse 1] a heart that's full up like a landfill a job that slowly kills you bruises that won't heal  [verse 2] you look so tired, unhappy bring down the government they don't, they don't speak for us  [verse 3] i'll take a quiet life a handshake of carbon monoxide and no alarms and no surprises no alarms and no surprises no alarms and no surprises silent silent  [verse 4] this is my final fit my final bellyache with no alarms and no surprises no alarms and no surprises no alarms and no surprises, please  [instrumental break]  [verse 5] such a pretty house and such a pretty garden no alarms and no surprises (let me out of here) no alarms and no surprises (let me out of here) no alarms and no surprises, please (let me out of here)"
+79,10,OK Computer,1997,Lucky,"[Verse 1]
 I'm on a roll, I'm on a roll this time
 I feel my luck could change
 Kill me, Sarah, kill me again with love
@@ -2523,8 +2523,8 @@ We are standing on the edge
 [Guitar Solo]
 
 [Outro]
-We are standing on the edge",verse roll roll time feel luck change kill sarah kill love go to glorious day chorus pull aircrash pull lake superhero stand edge verse head state call time go to glorious day feel luck change chorus pull aircrash pull lake superhero stand edge guitar solo outro stand edge
-11,OK Computer,1997,The Tourist,"[Verse 1]
+We are standing on the edge","[verse 1] i'm on a roll, i'm on a roll this time i feel my luck could change kill me, sarah, kill me again with love it's gonna be a glorious day  [chorus] pull me out of the aircrash pull me out of the lake 'cause i'm your superhero we are standing on the edge  [verse 2] the head of state has called for me by name but i don't have time for him it's gonna be a glorious day i feel my luck could change  [chorus] pull me out of the aircrash pull me out of the lake 'cause i'm your superhero we are standing on the edge  [guitar solo]  [outro] we are standing on the edge"
+80,11,OK Computer,1997,The Tourist,"[Verse 1]
 It barks at no one else but me
 Like it's seen a ghost
 I guess it's seen the sparks a-flowin'
@@ -2548,8 +2548,8 @@ Idiot, slow down, slow down
 
 [Chorus]
 Hey, man, slow down, slow down
-Idiot, slow down, slow down",verse bark like see ghost guess see spark flowin know chorus hey man slow slow idiot slow slow verse overcharge spark ask hell go thousand foot second chorus hey man slow slow idiot slow slow guitar solo chorus hey man slow slow idiot slow slow
-0,The King of Limbs,2011,Bloom,"Open your mouth wide
+Idiot, slow down, slow down","[verse 1] it barks at no one else but me like it's seen a ghost i guess it's seen the sparks a-flowin' no one else would know  [chorus] hey, man, slow down, slow down idiot, slow down, slow down  [verse 2] sometimes i get overcharged that's when you see sparks they ask me where the hell i'm going at a thousand feet per second  [chorus] hey, man, slow down, slow down idiot, slow down, slow down  [guitar solo]  [chorus] hey, man, slow down, slow down idiot, slow down, slow down"
+81,0,The King of Limbs,2011,Bloom,"Open your mouth wide
 A universal sigh
 And while the ocean blooms
 It's what keeps me alive
@@ -2565,8 +2565,8 @@ A giant turtle's eyes
 (Jellyfish float by)
 Jellyfish float by
 
-It's what keeps me alive",open mouth wide universal sigh ocean bloom keep alive hurt blow mind s move orbit turn somersault turn somersault giant turtle eye giant turtle eye jellyfish float jellyfish float keep alive
-1,The King of Limbs,2011,Morning Mr. Magpie,"You got some nerve coming here
+It's what keeps me alive",open your mouth wide a universal sigh and while the ocean blooms it's what keeps me alive so why does this still hurt? don't blow your mind with whys   i'm moving out of orbit (turning in somersaults) turning in somersaults (a giant turtle's eyes) a giant turtle's eyes (jellyfish float by) jellyfish float by  it's what keeps me alive
+82,1,The King of Limbs,2011,Morning Mr. Magpie,"You got some nerve coming here
 You got some nerve coming here
 You stole it off, give it back
 You stole it off, give it back
@@ -2587,8 +2587,8 @@ You know you should, but you don't, ooh
 Good morning, Mr. Magpie
 How are we today?
 Now you've stolen all my magic
-Took my melody",get nerve come get nerve come stole stole good morning magpie today steal magic take memory ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh know know ooh good morning magpie today steal magic take melody
-2,The King of Limbs,2011,Little by Little,"Don't turn nasty now, the dusts of Hell
+Took my melody","you got some nerve coming here you got some nerve coming here you stole it off, give it back you stole it off, give it back  good morning, mr. magpie how are we today? now you've stolen all the magic and took my memories  ooh-ooh-ooh-ooh-ooh-ooh ooh-ooh-ooh-ooh ooh-ooh-ooh-ooh ooh-ooh-ooh  you know you should, but you don't you know you should, but you don't, ooh  good morning, mr. magpie how are we today? now you've stolen all my magic took my melody"
+83,2,The King of Limbs,2011,Little by Little,"Don't turn nasty now, the dusts of Hell
 A pillar of my salt
 The last one out of the box
 The one who broke the spell
@@ -2618,16 +2618,16 @@ Little by little, by hook or by crook
 Never in earnest, never get judged
 I don't know where it is I should look
 Little by little, by hook or by crook
-I'm such a tease and you're such a flirt",turn nasty dust hell pillar salt box break spell little little hook crook tease flirt round ooh ooh ooh little little hook crook earnest judge know look ooh ooh ooh ooh oh glue will hold thread unpull uncurling love box break seal obligations complications routines schedule drug kill kill oh oh oh oh little little hook crook earnest judge know look little little hook crook tease flirt
-3,The King of Limbs,2011,Feral,"(You're not)
+I'm such a tease and you're such a flirt","don't turn nasty now, the dusts of hell a pillar of my salt the last one out of the box the one who broke the spell  little by little, by hook or by crook i'm such a tease and you're such a flirt once you've been 'round you've been around enough ooh-ooh-ooh little by little, by hook or by crook never in earnest, never get judged i don't know where it is i should look ooh-ooh-ooh-ooh-oh  the glue won't hold, the thread unpulls uncurling with my love the last one out of the box the one who broke the seal  obligations complications routines and schedules the drug that will kill you kill you oh-oh-oh-oh, you  little by little, by hook or by crook never in earnest, never get judged i don't know where it is i should look little by little, by hook or by crook i'm such a tease and you're such a flirt"
+84,3,The King of Limbs,2011,Feral,"(You're not)
 I'm not yours
 You're not mine
 It's all fine
 Please don't judge
 (You're not mine)
 
-Judge",fine judge judge
-4,The King of Limbs,2011,Lotus Flower,"I will shape myself into your pocket
+Judge",(you're not) i'm not yours you're not mine it's all fine please don't judge (you're not mine)  judge
+85,4,The King of Limbs,2011,Lotus Flower,"I will shape myself into your pocket
 Invisible, do what you want
 Do what you want
 I will shrink and I will disappear
@@ -2667,8 +2667,8 @@ Because all I want is the moon upon a stick
 I dance around the pit, the darkness is beneath
 I can't kick your habit
 Just to feed your fast-ballooning head
-Listen to your heart",shape pocket invisible want want shrink disappear slip groove cut cut space inside weed root set free set free space inside heart weed root set free set free slowly unfurl lotus flower want moon stick kick habit feed fast ballooning head listen heart shrink quiet mouse cat away want want space inside heart weed root set free set free want moon stick oh bird fly room slowly unfurl lotus flower want moon stick dance pit darkness beneath kick habit feed fast ballooning head listen heart
-5,The King of Limbs,2011,Codex,"Sleight of hand
+Listen to your heart","i will shape myself into your pocket invisible, do what you want do what you want i will shrink and i will disappear i will slip into the groove and cut, me off and cut me off  there's an empty space inside my where the weeds take root, and now i'll set you free i'll set you free there's an empty space inside my heart where the weeds take root, so now i'll set you free i'll set you free  slowly we unfurl as lotus flowers 'cause all i want is the moon upon a stick just to see what if, just to see what is i can't kick your habit just to feed your fast-ballooning head listen to your heart  we will shrink and then be quiet as mice and while the cat is away, do what we want do what we want  there's an empty space inside my heart where the weeds take root, so now i'll set you free i'll set you free  'cause all i want is the moon upon a stick just to see what if, just to see what is oh, the bird that's flown into my room  slowly we unfurl as lotus flowers because all i want is the moon upon a stick i dance around the pit, the darkness is beneath i can't kick your habit just to feed your fast-ballooning head listen to your heart"
+86,5,The King of Limbs,2011,Codex,"Sleight of hand
 Jump off the end
 Into a clear lake
 No one around
@@ -2683,8 +2683,8 @@ Jump off the end
 The water's clear
 And innocent
 The water's clear
-And innocent",sleight hand jump end clear lake dragonfly fantasised get hurt wrong oh slide hand jump end water clear innocent water clear innocent
-6,The King of Limbs,2011,Give Up the Ghost,"Don't hurt me, don't hurt me
+And innocent",sleight of hand jump off the end into a clear lake no one around just dragonflies fantasised no one gets hurt you've done nothing wrong oh  slide your hand jump off the end the water's clear and innocent the water's clear and innocent
+87,6,The King of Limbs,2011,Give Up the Ghost,"Don't hurt me, don't hurt me
 Don't hurt me, don't hurt me
 Don't hurt me
 
@@ -2719,8 +2719,8 @@ Into your arms (Don't hurt me)
 Into your arms (Don't hurt me)
 Into your arms (Don't hurt me)
 Into your arms (Don't hurt me)
-Into your arms (Don't hurt me)",hurt hurt hurt hurt hurt gather lost soul hurt arm hurt arm hurt gather pitiful hurt hurt arm hurt arm hurt arm hurt arm hurt arm impossible hurt hurt arm hurt arm hurt arm think fill hurt hurt arm hurt arm hurt arm hurt arm hurt think ghost hurt hurt arm arm hurt hurt arm hurt arm hurt arm hurt arm hurt arm hurt arm hurt arm hurt arm hurt arm hurt arm hurt
-7,The King of Limbs,2011,Separator,"It's like I've fallen out of bed from a long and vivid dream
+Into your arms (Don't hurt me)","don't hurt me, don't hurt me don't hurt me, don't hurt me don't hurt me  gather up the lost and their souls (don't hurt me) into your arms (don't hurt me) into your arms (don't hurt me) gather up the pitiful (don't hurt me, don't hurt me) into your arms (don't hurt me) into your arms (don't hurt me) into your arms (don't hurt me) into your arms (don't hurt me)  (into your arms) what seems impossible (don't hurt me, don't hurt me) into your arms (don't hurt me) (into your arms) (don't hurt me) (into your arms) i think i have had my fill (don't hurt me, don't hurt me) into your arms (don't hurt me) into your arms (don't hurt me) into your arms (don't hurt me) into your arms (don't hurt me) i think i should give up the ghost (don't hurt me, don't hurt me) into your arms (into your arms) (don't hurt me, don't hurt me)  into your arms (don't hurt me) into your arms (don't hurt me) into your arms (don't hurt me) into your arms (don't hurt me) into your arms (don't hurt me) into your arms (don't hurt me) into your arms (don't hurt me) into your arms (don't hurt me) into your arms (don't hurt me) into your arms (don't hurt me)"
+88,7,The King of Limbs,2011,Separator,"It's like I've fallen out of bed from a long and vivid dream
 The sweetest flowered fruits were hangin' from the trees
 Fallin' off the giant bird that's been carryin' me
 It's like I've fallen out of bed from a long and vivid dream
@@ -2756,8 +2756,8 @@ When at last, you give in
 Wake me up, will you wake me up?
 Wake me up, will you wake me up?
 Wake me up, will you wake me up?
-Wake me up, will you wake me up?",like fall bed long vivid dream sweetest flower fruit hangin tree fallin giant bird carryin like fall bed long vivid dream exactly remember word gesture heart mouth like fall bed long vivid dream finally free weight carry woman blow cover eye beholder fish water fall giant bird carryin fall open lie tip lose number wanna slip think wrong think wrong wake wake think wrong wake wake think wrong wake wake like fall bed long vivid dream wake wake finally free weight carryin wake wake wake wake wake wake wake wake
-0,Pablo Honey,1993,You,"You are the sun and moon and stars are you
+Wake me up, will you wake me up?","it's like i've fallen out of bed from a long and vivid dream the sweetest flowered fruits were hangin' from the trees fallin' off the giant bird that's been carryin' me it's like i've fallen out of bed from a long and vivid dream  just exactly as i remember every word, every gesture i've my heart in my mouth  like i've fallen out of bed from a long and vivid dream finally i'm free of all the weight i've been carrying  and as that woman blows her cover in the eye of the beholder i'm a fish now out of water  (did so much, did so much) fallen off a giant bird that's been carryin' me  i fell open, i lay under at the tip off, lost your number i wanna slip over and get back under  and if you think this is over, then you're wrong if you think this is over, then you're wrong (wake me up, will you wake me up?) if you think this is over, then you're wrong (wake me up, will you wake me up?) if you think this is over, then you're wrong  (wake me up, will you wake me up?) like i've fallen out of bed from a long and vivid dream (wake me up, will you wake me up?) finally i'm free of all the weight i've been carryin'  when at last, you give in when at last, you give in wake me up, will you wake me up? wake me up, will you wake me up? wake me up, will you wake me up? wake me up, will you wake me up?"
+89,0,Pablo Honey,1993,You,"You are the sun and moon and stars are you
 And I could never run away from you
 
 You try at working out chaotic things
@@ -2775,8 +2775,8 @@ Caught in the fire
 You, me and everything
 Caught in the fire
 I can see me drowning
-Caught in the fire",sun moon star run away try work chaotic thing believe like world go to end soon believe ah catch fire drown caught fire catch fire drown caught fire
-1,Pablo Honey,1993,Creep,"When you were here before
+Caught in the fire","you are the sun and moon and stars are you and i could never run away from you  you try at working out chaotic things and why should i believe myself, not you?  it's like the world is gonna end so soon and why should i believe myself?  ah!  you, me and everything caught in the fire i can see me drowning caught in the fire you, me and everything caught in the fire i can see me drowning caught in the fire"
+90,1,Pablo Honey,1993,Creep,"When you were here before
 Couldn't look you in the eye
 You're just like an angel
 Your skin makes me cry
@@ -2819,8 +2819,8 @@ But I'm a creep
 I'm a weirdo
 What the hell am I doin' here?
 I don't belong here
-I don't belong here",look eye like angel skin make cry float like feather beautiful world wish special fuckin special creep weirdo hell belong care hurt wanna control want perfect body want perfect soul want notice fuckin special wish special creep weirdo hell belong oh oh oh oh runnin door runnin run run run run run make happy want fuckin special wish special creep weirdo hell belong belong
-2,Pablo Honey,1993,How Do You?,"He's bitter and twisted  he knows what he wants
+I don't belong here","when you were here before couldn't look you in the eye you're just like an angel your skin makes me cry you float like a feather in a beautiful world i wish i was special you're so fuckin' special  but i'm a creep i'm a weirdo what the hell am i doin' here? i don't belong here  i don't care if it hurts i wanna have control i want a perfect body i want a perfect soul i want you to notice when i'm not around you're so fuckin' special i wish i was special  but i'm a creep i'm a weirdo what the hell am i doin' here? i don't belong here oh-oh, oh-oh  she's runnin' out the door she's runnin' out she run, run, run, run run  whatever makes you happy whatever you want you're so fuckin' special i wish i was special  but i'm a creep i'm a weirdo what the hell am i doin' here? i don't belong here i don't belong here"
+91,2,Pablo Honey,1993,How Do You?,"He's bitter and twisted  he knows what he wants
 He wants to be loved and he wants to belong
 He wants us to listen, he wants us to weep
 And he was a stupid baby who turned into a powerful freak
@@ -2845,8 +2845,8 @@ How do you?
 ""Pablo?""
 ""Yeah?""
 ""You, you bastard
-Pablo?""",bitter twist know want want love want belong want listen want weep stupid baby turn powerful freak live mother respect dangerous bigot forget like daddy cheat friend steal bully way oh ho ho ho come florida hell bastard hello pablo yeah bastard pablo
-3,Pablo Honey,1993,Stop Whispering,"And the wise man say, ""I don't want to hear your voice""
+Pablo?""","he's bitter and twisted  he knows what he wants he wants to be loved and he wants to belong he wants us to listen, he wants us to weep and he was a stupid baby who turned into a powerful freak  but how do you? how do you? how do you?  he lives with his mother, but we show him respect he's a dangerous bigot, but we always forget and, and he's just like his daddy 'cause he cheats on his friends and he steals and he bullies any way that he can, oh-ho-ho-ho  but how do you? how do you? how do you?  ""please come to florida"" ""who the hell is this?"" ""you bastard, you"" ""hello?"" ""pablo?"" ""yeah?"" ""you, you bastard pablo?"""
+92,3,Pablo Honey,1993,Stop Whispering,"And the wise man say, ""I don't want to hear your voice""
 And the thin man say, ""I don't want to hear your voice""
 And they're cursing me and they won't let me be
 And there's nothing to say and there's nothing to do
@@ -2872,8 +2872,8 @@ It doesn't matter anyway
 Stop whispering
 Stop whispering
 Stop whispering
-Stop whispering, start shout!",wise man want hear voice thin man want hear voice curse will let stop whispering start shout stop whispering start shout mother spit son building spit face feeling wrong find word find song stop whispering start shout stop whispering start shout dear sir complaint dear sir complaint remember matter matter stop whisper stop whisper stop whisper stop whispering start shout
-4,Pablo Honey,1993,Thinking About You,"Been thinkin' about you, your records are here
+Stop whispering, start shout!","and the wise man say, ""i don't want to hear your voice"" and the thin man say, ""i don't want to hear your voice"" and they're cursing me and they won't let me be and there's nothing to say and there's nothing to do  stop whispering, start shouting stop whispering, start shouting  and my mother say, ""we spit on your son some more"" and the buildings say, ""we spit on your face some more"" and the feeling is that there's something wrong 'cause i can't find the words and i can't find the songs  stop whispering, start shouting stop whispering, start shouting   dear sir, i have a complaint dear sir, i have a complaint, can't remember what it is it doesn't matter anyway it doesn't matter anyway   stop whispering stop whispering stop whispering stop whispering, start shout!"
+93,4,Pablo Honey,1993,Thinking About You,"Been thinkin' about you, your records are here
 Your eyes are on my wall, your teeth are over there
 But I'm still no one, and you're now a star
 What do you care?
@@ -2902,8 +2902,8 @@ All the things you've got that you'll never need
 All the things you've got, I've bled and I bleed
 To please you
 
-Been thinkin' about you",thinkin record eye wall tooth star care thinkin rest shit love bed playin care man far far well thing get thing need buy cigarette bribe company come honey thinkin sleep people friend pay kiss foot know know care thinkin rest shit love bed playin care thing get need thing get bleed bleed thinkin
-5,Pablo Honey,1993,Anyone Can Play Guitar,"Destiny
+Been thinkin' about you","been thinkin' about you, your records are here your eyes are on my wall, your teeth are over there but i'm still no one, and you're now a star what do you care?  been thinkin' about you, and there's no rest shit, i still love you, still see you in bed but i'm playin' with myself, and what do you care when the other men are far, far better?  all the things you've got, all the things you need who bought you cigarettes? who bribed the company to come and see you, honey?  i've been thinkin' about you, so how can you sleep? these people aren't your friends, they're paid to kiss your feet they don't know what i know, and why should you care when i'm not there?   been thinkin' about you, and there's no rest shit, i still love you, still see you in bed but i'm playin' with myself, and what do you care when i'm not there?  all the things you've got that you'll never need all the things you've got, i've bled and i bleed to please you  been thinkin' about you"
+94,5,Pablo Honey,1993,Anyone Can Play Guitar,"Destiny
 Destiny, protect me from the world
 Destiny
 Hold my hand, protect me from the world
@@ -2929,8 +2929,8 @@ And I don't see no confusion anywhere
 And if the world does turn, and if London burns
 I'll be standin' on the beach with my guitar
 I wanna be in a band when I get to heaven
-Anyone can play guitar, and they won't be a nothing anymore",destiny destiny protect world destiny hold hand protect world runnin confusion confusion world turn london burn standin beach guitar wanna band heaven play guitar will anymore grow hair grow hair jim morrison grow hair wanna wanna wanna jim morrison runnin confusion confusion world turn london burn standin beach guitar wanna band heaven play guitar will anymore
-6,Pablo Honey,1993,Ripcord,"Soul destroyed with clever toys for little boys
+Anyone can play guitar, and they won't be a nothing anymore","destiny destiny, protect me from the world destiny hold my hand, protect me from the world  here we are, with our runnin' and confusion and i don't see no confusion anywhere  and if the world does turn, and if london burns i'll be standin' on the beach with my guitar i wanna be in a band when i get to heaven anyone can play guitar, and they won't be a nothing anymore   grow my hair grow my hair, i am jim morrison grow my hair i wanna be, wanna be, wanna be jim morrison  here we are, with our runnin' and confusion and i don't see no confusion anywhere   and if the world does turn, and if london burns i'll be standin' on the beach with my guitar i wanna be in a band when i get to heaven anyone can play guitar, and they won't be a nothing anymore"
+95,6,Pablo Honey,1993,Ripcord,"Soul destroyed with clever toys for little boys
 It's inevitable, inevitable, it's a soul destroyed
 
 You're free until you drop, you're free until you've had enough
@@ -2958,8 +2958,8 @@ The answer to your prayers, we'll drop you anywheres
 With no ripcord
 No ripcord
 No ripcord
-N-n-no ripcord, yeah",soul destroy clever toy little boy inevitable inevitable soul destroy free drop free understand ripcord ripcord ripcord ripcord aeroplane mean mean oh inevitable inevitable oh aeroplane thousand mile hour politic power understand ripcord ripcord ripcord ripcord lie lie lie lie answer prayer drop anywhere ripcord ripcord ripcord n n ripcord yeah
-7,Pablo Honey,1993,Vegetable,"I never wanted anything but this
+N-n-no ripcord, yeah","soul destroyed with clever toys for little boys it's inevitable, inevitable, it's a soul destroyed  you're free until you drop, you're free until you've had enough but you don't understand  you've no ripcord no ripcord no ripcord no ripcord  aeroplane, do i mean what i mean? oh, it's inevitable, inevitable, oh, aeroplane  a thousand miles an hour, and politics in power that you don't understand  you've no ripcord no ripcord no ripcord no ripcord, lie-lie-lie-lie   the answer to your prayers, we'll drop you anywheres  with no ripcord no ripcord no ripcord n-n-no ripcord, yeah"
+96,7,Pablo Honey,1993,Vegetable,"I never wanted anything but this
 I worked hard, tried hard
 I ran around in domestic bliss
 I fought hard, died long
@@ -2989,8 +2989,8 @@ And this time you're gonna pay
 I'm not a vegetable
 I will not control myself
 I spit on the hand that feeds me
-I will not control myself",want work hard try hard run domestic bliss fight hard die long time runnin time runnin fear want broken bone scarred face home word surround asphyxiate burn hate time runnin time runnin vegetable control spit hand feed control water spray water run water spray water run time go to pay vegetable control spit hand feed control
-8,Pablo Honey,1993,Prove Yourself,"I can't afford to breathe in this town
+I will not control myself","i never wanted anything but this i worked hard, tried hard i ran around in domestic bliss i fought hard, died long  every time you're runnin' out of here every time you're runnin' i get the fear   i never wanted any broken bones scarred face, no home your words surround me and asphyxiate and i burn all hate  every time you're runnin' out on me every time you're runnin' i can see  i'm not a vegetable i will not control myself i spit on the hand that feeds me i will not control myself  the waters spray, the waters run all over me the waters spray, the waters run and this time you're gonna pay   i'm not a vegetable i will not control myself i spit on the hand that feeds me i will not control myself"
+97,8,Pablo Honey,1993,Prove Yourself,"I can't afford to breathe in this town
 Nowhere to sit without a gun in my hand
 Hooked back up to the cathode ray
 
@@ -3025,8 +3025,8 @@ Prove yourself
 Prove yourself
 (Why?) Prove yourself
 Prove yourself
-Prove yourself",afford breathe town sit gun hand hooked cathode ray well dead well dead well prove prove prove wanna breathe wanna grow want know work bleed beg pray well dead well dead well prove prove prove well dead well dead well prove prove prove prove prove prove prove
-9,Pablo Honey,1993,I Can’t,"Please forget the words that I just blurted out
+Prove yourself","i can't afford to breathe in this town nowhere to sit without a gun in my hand hooked back up to the cathode ray  i'm better off dead i'm better off dead i'm better off  prove yourself prove yourself prove yourself  i wanna breathe, i wanna grow i'd say i want it but i don't know how i work, i bleed, i beg and pray  and i'm better off dead i'm better off dead i'm better off  prove yourself prove yourself prove yourself   i'm better off dead i'm better off dead i'm better off  prove yourself prove yourself prove yourself prove yourself (why?) prove yourself prove yourself prove yourself"
+98,9,Pablo Honey,1993,I Can’t,"Please forget the words that I just blurted out
 It wasn't me, it was my strange and creeping doubt
 It keeps rattling my cage and there's nothing in this world will keep it down
 
@@ -3046,8 +3046,8 @@ If you give up on me now, I'll be gutted like I've never been before
 Even though I might, even though I try, I can't
 Even though I might, even though I try, I can't
 Even though I might, even though I try, I can't
-Even though I might, even though I try, I can't",forget word blurt strange creep doubt keep rattle cage world try try thing underground word find gutte like try try gutte like try try try try
-10,Pablo Honey,1993,Lurgee,"I feel better
+Even though I might, even though I try, I can't","please forget the words that i just blurted out it wasn't me, it was my strange and creeping doubt it keeps rattling my cage and there's nothing in this world will keep it down  even though i might, even though i try, i can't even though i might, even though i try, i can't  so many things that keep, that keep me underground so many words that i, that i can never find if you give up on me now, i'll be gutted like i've never been before  even though i might, even though i try, i can't even though i might, even though i try, i can't   if you give up on me now, i'll be gutted like i've never been before  even though i might, even though i try, i can't even though i might, even though i try, i can't even though i might, even though i try, i can't even though i might, even though i try, i can't"
+99,10,Pablo Honey,1993,Lurgee,"I feel better
 I feel better now you've gone
 I got better
 I got better, I got strong
@@ -3063,8 +3063,8 @@ Tell me one thing and let it go
 I got something
 I got something, heaven knows
 I got something
-I got something I don't know",feel well feel well go get well get well get strong feel well feel well wrong get well get well get strong tell tell know tell thing tell thing let get get heaven know get get know
-11,Pablo Honey,1993,Blow Out,"In my mind
+I got something I don't know","i feel better i feel better now you've gone i got better i got better, i got strong i feel better i feel better, now there's nothing wrong i got better i got better, i got strong  tell me something tell me something i don't know tell me one thing tell me one thing and let it go i got something i got something, heaven knows i got something i got something i don't know"
+100,11,Pablo Honey,1993,Blow Out,"In my mind
 And nailed into my heels
 All the time
 Killing what I feel
@@ -3083,4 +3083,4 @@ Just in case I crack out
 Everything I touch
 Turns to stone
 Everything I touch (All wrapped up in cotton wool)
-(All wrapped up and sugar-coated) Turns stone",mind nail heel time kill feel touch wrap cotton wool wrap sugar coat turn stone touch wrap cotton wool wrap sugar coat turn stone fuse case blow glare case crack touch turn stone touch wrap cotton wool wrap sugar coat turn stone
+(All wrapped up and sugar-coated) Turns stone",in my mind and nailed into my heels all the time killing what i feel  and everything i touch (all wrapped up in cotton wool) (all wrapped up and sugar-coated) turns to stone everything i touch (all wrapped up in cotton wool) (all wrapped up and sugar-coated) turns stone   i am fused just in case i blow out i am glared just in case i crack out  everything i touch turns to stone everything i touch (all wrapped up in cotton wool) (all wrapped up and sugar-coated) turns stone
